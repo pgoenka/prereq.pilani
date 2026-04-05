@@ -1,0 +1,5432 @@
+[
+    [
+        "BIO F110",
+        "BIOLOGICAL LABORATORY"
+    ],
+    [
+        "BIO F111",
+        "GENERAL BIOLOGY"
+    ],
+    [
+        "BIO F211",
+        "BIOLOGICAL CHEMISTRY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F212",
+        "MICROBIOLOGY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F213",
+        "CELL BIOLOGY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F214",
+        "INTEGRATED BIOLOGY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F215",
+        "BIOPHYSICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F241",
+        "ECOLOGY & ENVIRON SCI"
+    ],
+    [
+        "BIO F242",
+        "INTRO TO BIOINFORMATICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F243",
+        "GENETICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F244",
+        "INSTRU METHODS OF ANAL",
+        "001001",
+        "BIO",
+        "F110",
+        "BIOLOGICAL LABORATORY",
+        "PRE"
+    ],
+    [
+        "BIO F312",
+        "PLANT PHYSIOLOGY",
+        "001112",
+        "BIO",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "AND",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F313",
+        "ANIMAL PHYSIOLOGY",
+        "001112",
+        "BIO",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "AND",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F341",
+        "DEVELOPMENTAL BIOLOGY",
+        "001425",
+        "BIO",
+        "F243",
+        "GENETICS",
+        "PRE",
+        "AND",
+        "001113",
+        "BIO",
+        "F213",
+        "CELL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F342",
+        "IMMUNOLOGY",
+        "001114",
+        "BIO",
+        "F212",
+        "MICROBIOLOGY",
+        "PRE",
+        "AND",
+        "001113",
+        "BIO",
+        "F213",
+        "CELL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F352",
+        "CELL & TISSUE CULTR TECH"
+    ],
+    [
+        "BIO F413",
+        "MOLECULAR BIO OF CELL"
+    ],
+    [
+        "BIO F418",
+        "GENETIC ENGINEERING TECH"
+    ],
+    [
+        "BIO F419",
+        "MOLECULAR EVOLUTION",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F431",
+        "REPRODUCTIVE PHYSIOLOGY",
+        "001429",
+        "BIO",
+        "F313",
+        "ANIMAL PHYSIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO F441",
+        "BIOCHEMICAL ENGINEERING"
+    ],
+    [
+        "BIO F451",
+        "BIOPROCESS TECHNOLOGY"
+    ],
+    [
+        "BIO G515",
+        "STEM CELL AND GENERATIBE BIOLOGY",
+        "BIO",
+        "F341",
+        "DEVELOPMENT AL BIOLOGY",
+        "CO"
+    ],
+    [
+        "BIO G526",
+        "CANCER BIOLOGY",
+        "BIO",
+        "F243",
+        "GENETICS",
+        "PRE"
+    ],
+    [
+        "BIO G545",
+        "MOLECULAR PARASITOLOGY AND VECTOR BIOLOGY",
+        "BIO",
+        "F342",
+        "IMMUNOBIOLO GY",
+        "PRE"
+    ],
+    [
+        "BIO G561",
+        "ADVANCES IN RECOMBINANT DNA TECH",
+        "BIO",
+        "F311",
+        "RECOMBINANT DNA TECH"
+    ],
+    [
+        "BIO G561",
+        "ADVANCES IN RECOMBINANT DNA TECHNOLOGY",
+        "BIO",
+        "F311",
+        "RECOMBINANT DNA TECHNOLOGY",
+        "PRE"
+    ],
+    [
+        "BIO G570",
+        "RECENT DEVELOPMENTS IN BIOLOGY"
+    ],
+    [
+        "BIO G612",
+        "HUMAN GENETICS",
+        "BIO",
+        "F243",
+        "GENETICS",
+        "PRE",
+        "AND",
+        "BIO",
+        "F311",
+        "RECOMBINA NT DNA TECH",
+        "CO- REQ"
+    ],
+    [
+        "BIO G612",
+        "HUMAN GENETICS",
+        "BIO",
+        "F243",
+        "GENETICS",
+        "PRE",
+        "AND",
+        "BIO",
+        "F 311",
+        "RECOMBINA NT DNA TECHNOLO GY",
+        "CO- REQ"
+    ],
+    [
+        "BIOT F211",
+        "BIOLOGICAL CHEMISTRY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F212",
+        "MICROBIOLOGY",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F213",
+        "CELL BIOLOGY"
+    ],
+    [
+        "BIOT F215",
+        "BIOPHYSICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F241",
+        "GENETIC ENGINEERING TECH"
+    ],
+    [
+        "BIOT F242",
+        "INTRO TO BIOINFORMATICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F243",
+        "GENETICS",
+        "001002",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F244",
+        "INSTRU METHODS OF ANAL",
+        "001001",
+        "BIO",
+        "F110",
+        "BIOLOGICAL LABORATORY",
+        "PRE"
+    ],
+    [
+        "BIOT F245",
+        "INTRO TO ENVIRON BIOTECH",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE",
+        "AND",
+        "BIOT",
+        "F212",
+        "MICROBIOL OGY",
+        "PRE"
+    ],
+    [
+        "BIOT F311",
+        "RECOMBINANT DNA TECH",
+        "BIOT",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "AND",
+        "BIOT",
+        "F243",
+        "GENETICS",
+        "PRE"
+    ],
+    [
+        "BIOT F314",
+        "INDUS MICROBIO & BIOPRO ENGG",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE",
+        "AND",
+        "BIOT",
+        "F212",
+        "MICROBIOL OGY",
+        "PRE"
+    ],
+    [
+        "BIOT F342",
+        "IMMUNOLOGY",
+        "BIOT",
+        "F212",
+        "MICROBIOLOG Y",
+        "PRE",
+        "AND",
+        "BIOT",
+        "F213",
+        "CELL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F343",
+        "EXPERIMENTS IN BIOTECH",
+        "BIOT",
+        "F241",
+        "GENETIC ENGINEERING TECH",
+        "PRE",
+        "AND"
+    ],
+    [
+        "BIOT F344",
+        "DOWNSTREAM PROCESSING",
+        "BIO",
+        "F111",
+        "GENEARL BIOLOGY",
+        "PRE",
+        "AND",
+        "BIOT",
+        "F212",
+        "MICROBIOL OGY",
+        "PRE"
+    ],
+    [
+        "BIOT F345",
+        "PROTEOMICS"
+    ],
+    [
+        "BIOT F346",
+        "GENOMICS"
+    ],
+    [
+        "BIOT F347",
+        "IMMUNOTECHNOLOGY",
+        "BIOT",
+        "F342",
+        "IMMUNOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F352",
+        "CELL & TISSUE CULTR TECH"
+    ],
+    [
+        "BIOT F413",
+        "MOLECULAR BIO OF CELL"
+    ],
+    [
+        "BIOT F416",
+        "INTRO TO PHARMA BIOTECH"
+    ],
+    [
+        "BIOT F417",
+        "BIOMOLECULAR MODELING",
+        "BIOT",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "BIOT F420",
+        "INTRO TO PLANT BIOTECH"
+    ],
+    [
+        "BIOT F422",
+        "NANOBIOTECHNOLOGY",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE"
+    ],
+    [
+        "BIOT F423",
+        "DRUG DESIGN AND DELIVERY",
+        "CHEM",
+        "F111",
+        "GENERAL CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "BIOT F424",
+        "FOOD BIOTECHNOLOGY",
+        "BIOT",
+        "F212",
+        "MICROBIOLOG Y",
+        "PRE"
+    ],
+    [
+        "BITS F110",
+        "ENGINEERING GRAPHICS"
+    ],
+    [
+        "BITS F111",
+        "THERMODYNAMICS"
+    ],
+    [
+        "BITS F112",
+        "TECH REPORT WRITING"
+    ],
+    [
+        "BITS F113",
+        "GENERAL MATHEMATICS-I"
+    ],
+    [
+        "BITS F114",
+        "GENERAL MATHEMATICS-II"
+    ],
+    [
+        "BITS F214",
+        "SCIENCE, TECHNOLOGY AND MODERNITY"
+    ],
+    [
+        "BITS F218",
+        "GENERAL MATHEMATICS-III"
+    ],
+    [
+        "BITS F219",
+        "PROCESS ENGINEERING"
+    ],
+    [
+        "BITS F221",
+        "PRACTICE SCHOOL I"
+    ],
+    [
+        "BITS F223",
+        "OBJECT ORIENTED PROG"
+    ],
+    [
+        "BITS F311",
+        "IMAGE PROCESSING"
+    ],
+    [
+        "BITS F312",
+        "NEURAL NET & FUZZY LOGIC"
+    ],
+    [
+        "BITS F312",
+        "NEURAL NETWORKS AND FUZZY LOGIC"
+    ],
+    [
+        "BITS F313",
+        "MULTICRI DE MAK IN E & M"
+    ],
+    [
+        "BITS F316",
+        "NONLINEAR DYNA & CHAOS",
+        "001010",
+        "MATH",
+        "F111",
+        "MATHEMATICS -I",
+        "PRE",
+        "AND",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE",
+        "AN D",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMAT ICS III",
+        "PRE"
+    ],
+    [
+        "BITS F317",
+        "THEORETICAL NEUROSCIENCE",
+        "PHY",
+        "F111",
+        "MECHANICS OSCILLATIONS AND WAVES",
+        "PRE",
+        "AND",
+        "BIO",
+        "F111",
+        "GENERAL BIOLOGY",
+        "PRE",
+        "AN D",
+        "MATH",
+        "F211",
+        "MATHEMAT ICS III",
+        "PRE",
+        "AN D",
+        "MATH",
+        "F113",
+        "PROBABILI TY AND STATISTICS"
+    ],
+    [
+        "BITS F341",
+        "SHORT FILM & VIDEO PROD"
+    ],
+    [
+        "BITS F342",
+        "HUMANITIES & DESIGN"
+    ],
+    [
+        "BITS F343",
+        "FUZZY LOGIC & APPL"
+    ],
+    [
+        "BITS F364",
+        "HUMAN COMP INTERACTION"
+    ],
+    [
+        "BITS F385",
+        "INTRO TO GENDER STUDIES"
+    ],
+    [
+        "BITS F386",
+        "QUANTUM INFO & COMPUTING"
+    ],
+    [
+        "BITS F399",
+        "HUMANISTIC THEORIES OF SCIENCE AND TECHNOLOGY"
+    ],
+    [
+        "BITS F412",
+        "PRACTICE SCHOOL II"
+    ],
+    [
+        "BITS F415",
+        "INTRODUCTION TO MEMS"
+    ],
+    [
+        "BITS F418",
+        "INTRODUCTION TO BIOMEDICAL ENGINEERING"
+    ],
+    [
+        "BITS F421",
+        "THESIS"
+    ],
+    [
+        "BITS F430",
+        "RENEWABLE ENERGY LABORATORY"
+    ],
+    [
+        "BITS F437",
+        "TECHNICAL COMMUNICATION"
+    ],
+    [
+        "BITS F463",
+        "CRYPTOGRAPHY"
+    ],
+    [
+        "BITS F464",
+        "MACHINE LEARNING"
+    ],
+    [
+        "BITS F467",
+        "BIOETHICS & BIOSAFETY"
+    ],
+    [
+        "CE F211",
+        "MECHANICS OF SOLIDS"
+    ],
+    [
+        "CE F212",
+        "TRANSPORT PHENOMENA"
+    ],
+    [
+        "CE F213",
+        "SURVEYING"
+    ],
+    [
+        "CE F214",
+        "CONSTRUCTION MATERIALS"
+    ],
+    [
+        "CE F241",
+        "ANALYSIS OF STRUCTURES",
+        "001073",
+        "CE",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE"
+    ],
+    
+    [
+        "CE F242",
+        "CONSTRUCTION PLAN & TECH"
+    ],
+    [
+        "CE F243",
+        "SOIL MECHANICS"
+    ],
+    [
+        "CE F244",
+        "HIGHWAY ENGINEERING"
+    ],
+    [
+        "CE F311",
+        "DES OF CONCRETE STRUCT",
+        "001073",
+        "CE",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE"
+    ],
+    [
+        "CE F312",
+        "HYDRAULIC ENGINEERING",
+        "001074",
+        "CE",
+        "F212",
+        "TRANSPORT PHENOMENA",
+        "PRE"
+    ],
+    [
+        "CE F313",
+        "FOUNDATION ENGINEERING",
+        "001193",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE"
+    ],
+    [
+        "CE F323",
+        "INTRO TO ENVIRN ENGG"
+    ],
+    [
+        "CE F324",
+        "NUMERICAL ANALYSIS"
+    ],
+    [
+        "CE F341",
+        "HYDRO & WATER RES ENGG",
+        "001074",
+        "CE",
+        "F212",
+        "TRANSPORT PHENOMENA",
+        "PRE"
+    ],
+    [
+        "CE F342",
+        "WATER & WASTEWATER TREAT"
+    ],
+    [
+        "CE F343",
+        "DES OF STEEL STRUCTURES",
+        "001073",
+        "CE",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE"
+    ],
+    [
+        "CE F345",
+        "COMPUTATIONAL GEOMECHANICS",
+        "CE",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE",
+        "CE",
+        "F313",
+        "FOUNDATI ON ENGINEERI NG"
+    ],
+    [
+        "CE F411",
+        "OPER RESEARCH FOR ENGIN",
+        "001012",
+        "MATH",
+        "F113",
+        "PROBABILITY & STATISTICS",
+        "PRE"
+    ],
+    [
+        "CE F412",
+        "DISASTER MANAGEMENT"
+    ],
+    [
+        "CE F413",
+        "ADV STRUCTURAL DESIGN",
+        "001195",
+        "CE",
+        "F311",
+        "DES OF CONCRETE STRUCT",
+        "PRE",
+        "AND",
+        "001200",
+        "CE",
+        "F343",
+        "DES OF STEEL STRUCTURE S",
+        "CO"
+    ],
+    [
+        "CE F415",
+        "DES OF PREST CONC STRUCT",
+        "001195",
+        "CE",
+        "F311",
+        "DES OF CONCRETE STRUCT",
+        "CO"
+    ],
+    [
+        "CE F416",
+        "COMP APPLI IN CIVIL ENGG"
+    ],
+    [
+        "CE F417",
+        "APP OF AI IN CIVIL ENGG"
+    ],
+    [
+        "CE F419",
+        "GEOTECH EQ ENG & MC FOUN",
+        "001193",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE"
+    ],
+    [
+        "CE F420",
+        "INTRO TO BRIDGE ENGG",
+        "001195",
+        "CE",
+        "F311",
+        "DES OF CONCRETE STRUCT",
+        "CO",
+        "AND",
+        "001200",
+        "CE",
+        "F343",
+        "DES OF STEEL STRUCTURE S",
+        "PRE"
+    ],
+    [
+        "CE F421",
+        "A & D OF FRP REIN CON ST",
+        "001073",
+        "CE",
+        "F311",
+        "DES OF CONCRETE STRUCT",
+        "CO"
+    ],
+    [
+        "CE F422",
+        "URBAN HYDROLOGY"
+    ],
+    [
+        "CE F423",
+        "GREEN BUILD & ENER CONSE"
+    ],
+    [
+        "CE F425",
+        "AIRPORT RAIL & WATERWAYS"
+    ],
+    [
+        "CE F426",
+        "GEOSYN & REIN SOIL STR",
+        "001193",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE"
+    ],
+    [
+        "CE F427",
+        "SYSTEM MODELING & ANAL"
+    ],
+    [
+        "CE F429",
+        "DES OF FOUNDATION SYSTEM",
+        "001193",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE"
+    ],
+    [
+        "CE F430",
+        "DES OF ADV CONC STRUCT",
+        "001195",
+        "CE",
+        "F311",
+        "DES OF CONCRETE STRUCT",
+        "PRE"
+    ],
+    [
+        "CE F431",
+        "PRIN OF GEO INFO SYS"
+    ],
+    [
+        "CE F432",
+        "STRUCTURAL DYNAMICS",
+        "001191",
+        "CE",
+        "F241",
+        "ANALYSIS OF STRUCTURES",
+        "PRE"
+    ],
+    [
+        "CE F433",
+        "REMOTE SENS & IMAGE PROC"
+    ],
+    [
+        "CE F434",
+        "ENV IMPACT ASSESSMENT"
+    ],
+    [
+        "CE F435",
+        "INTRODUCTION TO FEM",
+        "001191",
+        "CE",
+        "F241",
+        "ANALYSIS OF STRUCTURES",
+        "PRE"
+    ],
+    [
+        "CE G544",
+        "FRACTURE MECHANICS OF CONCRETE STRUCTURES"
+    ],
+    [
+        "CE G562",
+        "ADVANCED CONCRETE TECHNOLOGY",
+        "CE",
+        "F214",
+        "CONSTRUCTIO N MATERIALS",
+        "PRE"
+    ],
+    [
+        "CHE F211",
+        "CHEMICAL PROCESS CALCULA"
+    ],
+    [
+        "CHE F212",
+        "FLUID MECHANICS"
+    ],
+    [
+        "CHE F213",
+        "CHEM ENGG THERMODYNAMICS",
+        "001004",
+        "BITS",
+        "F111",
+        "THERMODYNA MICS",
+        "PRE"
+    ],
+    [
+        "CHE F214",
+        "ENGINEERING CHEMISTRY",
+        "001007",
+        "CHEM",
+        "F111",
+        "GENERAL CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "CHE F241",
+        "HEAT TRANSFER"
+    ],
+    [
+        "CHE F242",
+        "NUM METHOD FOR CHEM ENGG",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE"
+    ],
+    
+    [
+        "CHE F243",
+        "MATERIAL SCIENCE & ENGG"
+    ],
+    [
+        "CHE F244",
+        "SEPARATION PROCESSES I"
+    ],
+    [
+        "CHE F311",
+        "KINETICS & REACTOR DESIG"
+    ],
+    [
+        "CHE F313",
+        "SEPARATION PROCESSES II",
+        "001183",
+        "CHE",
+        "F244",
+        "SEPARATION PROCESSES I"
+    ],
+    [
+        "CHE F314",
+        "PROCESS DES PRINCIPLES I"
+    ],
+    [
+        "CHE F342",
+        "PROCESS DYN & CONTROL"
+    ],
+    [
+        "CHE F343",
+        "PROCESS DES PRINCIPLE II",
+        "001187",
+        "CHE",
+        "F314",
+        "PROCESS DES PRINCIPLES I",
+        "PRE",
+        "AND",
+        "001186",
+        "CHE",
+        "F313",
+        "SEPARATIO N PROCESSES II",
+        "PRE"
+    ],
+    [
+        "CHE F411",
+        "ENVIR POLLUTION CONTROL",
+        "001183",
+        "CHE",
+        "F244",
+        "SEPARATION PROCESSES I",
+        "PRE"
+    ],
+    [
+        "CHE F412",
+        "PROCESS EQUIPMENT DESIGN",
+        "001188",
+        "CHE",
+        "F341",
+        "CHEMICAL ENGG LAB II",
+        "CO"
+    ],
+    [
+        "CHE F413",
+        "PROCESS PLANT SAFETY",
+        "001188",
+        "CHE",
+        "F341",
+        "CHEMICAL ENGG LAB II",
+        "CO"
+    ],
+    [
+        "CHE F414",
+        "TRANSPORT PHENOMENA",
+        "001072",
+        "CHE",
+        "F212",
+        "FLUID MECHANICS",
+        "PRE",
+        "AND",
+        "001180",
+        "CHE",
+        "F241",
+        "HEAT TRANSFER",
+        "PRE",
+        "AN D",
+        "001183",
+        "CHE",
+        "F244",
+        "SEPARATIO N PROCESSE S I",
+        "PRE"
+    ],
+    [
+        "CHE F415",
+        "MOLEC & STAT THERMODYN",
+        "001071",
+        "CHE",
+        "F213",
+        "CHEM ENGG THERMODYNA MICS",
+        "PRE"
+    ],
+    [
+        "CHE F416",
+        "PROCESS PLANT DES PRO I",
+        "001185",
+        "CHE",
+        "F312",
+        "CHEMICAL ENGG LAB I",
+        "PRE"
+    ],
+    [
+        "CHE F417",
+        "PROCESS PLANT DES PRO II",
+        "001188",
+        "CHE",
+        "F341",
+        "CHEMICAL ENGG LAB II",
+        "PRE"
+    ],
+    [
+        "CHE F418",
+        "MODEL & SIMU IN CHE ENGG",
+        "CHE",
+        "F242",
+        "NUMERICAL METHODS FOR CHEMICAL ENGINEERS",
+        "PRE",
+        "AND",
+        "CHE",
+        "F311",
+        "KINETICS AND REACTOR DESIGN",
+        "PRE"
+    ],
+    [
+        "CHE F419",
+        "CHEMICAL PROCESS TECH",
+        "001188",
+        "CHE",
+        "F341",
+        "CHEMICAL ENGG LAB II",
+        "CO"
+    ],
+    [
+        "CHE F421",
+        "BIOCHEMICAL ENGINEERING",
+        "001184",
+        "CHE",
+        "F311",
+        "KINETICS & REACTOR DESIG",
+        "CO"
+    ],
+    [
+        "CHE F422",
+        "PETROLEUM REFINING TECHNOLOGY",
+        "CHE",
+        "F244",
+        "SEPARATION PROCESSES I",
+        "PRE"
+    ],
+    [
+        "CHE F433",
+        "CORROSION ENGINEERING",
+        "CHE",
+        "F243",
+        "MATERIAL SCIENCE & ENGINEERING",
+        "PRE",
+        "OR",
+        "ME",
+        "F213",
+        "MATERIAL SCIENCE AND ENGINEERI NG",
+        "PRE",
+        "OR",
+        "MF",
+        "F213",
+        "MATERIAL SCIENCE AND ENGINEERI NG",
+        "PRE"
+    ],
+    [
+        "CHE F471",
+        "ADVANCE PROCESS CONTROL",
+        "001189",
+        "CHE",
+        "F342",
+        "PROCESS DYN & CONTROL",
+        "PRE"
+    ],
+    [
+        "CHE F491",
+        "SPECIAL PROJECTS",
+        "PRE"
+    ],
+    [
+        "CHE G511",
+        "Fluidization Engineering",
+        "CHE",
+        "F311",
+        "Kinetics & Reactor Design",
+        "PRE"
+    ],
+    [
+        "CHE G512",
+        "Petroleum Refining and Petrochemicals",
+        "CHE",
+        "F312",
+        "Chemical Engineering Lab \u2013 I",
+        "PRE"
+    ],
+    [
+        "CHE G513",
+        "Environmental Management Systems"
+    ],
+    [
+        "CHE G522",
+        "Polymer Technology",
+        "CHE",
+        "F311",
+        "Kinetics & Reactor Design",
+        "PRE"
+    ],
+    [
+        "CHE G523",
+        "Mathematical Methods in Chemical Engineering",
+        "CHE",
+        "F312",
+        "Chemical Engineering Lab \u2013 I",
+        "PRE"
+    ],
+    [
+        "CHE G524",
+        "Introduction to Multiphase flow",
+        "CHE",
+        "F414",
+        "Transport Phenomena",
+        "PRE"
+    ],
+    [
+        "CHE G526",
+        "Nuclear Engineering",
+        "CHE",
+        "F312",
+        "Chemical Engineering Lab \u2013 I",
+        "PRE"
+    ],
+    [
+        "CHE G527",
+        "Energy Conservation and Management"
+    ],
+    [
+        "CHE G528",
+        "Introduction to Nanoscience & Technology",
+        "CHE",
+        "F243",
+        "Material Science & Engineering",
+        "PRE"
+    ],
+    [
+        "CHE G529",
+        "Paper and Pulp Technology",
+        "CHE",
+        "F314",
+        "Process Design Principles I",
+        "PRE"
+    ],
+    [
+        "CHE G532",
+        "Alternate Energy Resources"
+    ],
+    [
+        "CHE G533",
+        "Petroleum Product Characterization",
+        "CHE",
+        "F312",
+        "Chemical Engineering Lab \u2013 I",
+        "PRE"
+    ],
+    [
+        "CHE G551",
+        "Advanced Separation Technology",
+        "CHE",
+        "F313",
+        "Separation Processes II",
+        "PRE"
+    ],
+    
+    [
+        "CHE G552",
+        "ADVANCED TRANSPORT PHENOMENA"
+    ],
+    [
+        "CHE G553",
+        "STATISTICAL THERMODYNAMICS"
+    ],
+    [
+        "CHE G554",
+        "COMPUTATIONAL FLUID DYNAMICS"
+    ],
+    [
+        "CHE G556",
+        "ELECTROCHEMICAL ENGINEERING"
+    ],
+    [
+        "CHE G557",
+        "ENERGY SYSTEMS ENGINEERING"
+    ],
+    [
+        "CHE G558",
+        "CHEMICAL PROCESS OPTIMIZATION"
+    ],
+    [
+        "CHE G559",
+        "REACTOR PHYSICS AND ENGINEERING"
+    ],
+    [
+        "CHE G560",
+        "NUCLEAR FUEL CYCLE AND WASTE MANAGEMENT"
+    ],
+    [
+        "CHE G561",
+        "NUCLEAR REACTOR CONTROL AND INSTRUMENTATION"
+    ],
+    [
+        "CHE G562",
+        "THERMAL HYDRAULICS AND HEAT TRANSFER"
+    ],
+    [
+        "CHE G563",
+        "NUCLEAR CHEMICAL ENGINEERING"
+    ],
+    [
+        "CHE G564",
+        "NUCLEAR MATERIALS AND RADIATION DAMAGE"
+    ],
+    [
+        "CHE G565",
+        "RADIATION AND RADIO ISOTOPES APPLICATIONS"
+    ],
+    [
+        "CHE G566",
+        "NUCLEAR SAFETY, SECURITY AND SAFEGUARDS"
+    ],
+    [
+        "CHE G567",
+        "NATURAL GAS PROCESSING"
+    ],
+    [
+        "CHE G568",
+        "MODELING AND SIMULATION IN PETROLEUM REFINING"
+    ],
+    [
+        "CHE G569",
+        "PETROLEUM PRODUCTION ECONOMICS"
+    ],
+    [
+        "CHE G613",
+        "Advanced Mass Transfer",
+        "CHE",
+        "F244",
+        "Separation Processes I",
+        "PRE"
+    ],
+    [
+        "CHE G614",
+        "Advanced Heat Transfer",
+        "CHE",
+        "F312",
+        "Chemical Engineering Lab \u2013 I",
+        "PRE"
+    ],
+    [
+        "CHE G616",
+        "Petroleum Reservoir Engineering"
+    ],
+    [
+        "CHE G617",
+        "Petroleum Refinery Engineering",
+        "CHE",
+        "F341",
+        "Chemical Engineering Lab \u2013 II",
+        "PRE"
+    ],
+    [
+        "CHE G618",
+        "Petroleum Downstream Processing",
+        "CHE",
+        "F314",
+        "Process Design Principles I",
+        "PRE"
+    ],
+    [
+        "CHE G619",
+        "Process Intensification",
+        "CHE",
+        "F343",
+        "Process Design Principles II",
+        "PRE"
+    ],
+    [
+        "CHE G620",
+        "Energy Integration Analysis",
+        "CHE",
+        "F343",
+        "Process Design Principles II",
+        "PRE"
+    ],
+    [
+        "CHE G622",
+        "Advanced Chemical Engineering Thermodynamics",
+        "CHE",
+        "F213",
+        "Chemical Engineering Thermodynami cs",
+        "PRE"
+    ],
+    [
+        "CHE G641",
+        "Reaction Engineering",
+        "CHE",
+        "F311",
+        "Kinetics & Reactor Design",
+        "PRE"
+    ],
+    [
+        "CHEM F110",
+        "CHEMISTRY LABORATORY"
+    ],
+    [
+        "CHEM F111",
+        "GENERAL CHEMISTRY"
+    ],
+    [
+        "CHEM F211",
+        "PHYSICAL CHEMISTRY I"
+    ],
+    [
+        "CHEM F212",
+        "ORGANIC CHEMISTRY I"
+    ],
+    [
+        "CHEM F213",
+        "PHYSICAL CHEMISTRY II"
+    ],
+    [
+        "CHEM F214",
+        "INORGANIC CHEMISTRY I"
+    ],
+    [
+        "CHEM F223",
+        "COLLOID & SURFACE CHEM"
+    ],
+    [
+        "CHEM F241",
+        "INORGANIC CHEMISTRY II"
+    ],
+    [
+        "CHEM F242",
+        "CHEMICAL EXPERIMENTATION I"
+    ],
+    [
+        "CHEM F243",
+        "ORGANIC CHEMISTRY II"
+    ],
+    [
+        "CHEM F244",
+        "PHYSICAL CHEMISTRY III",
+        "001118",
+        "CHEM",
+        "F213",
+        "PHYSICAL CHEMISTRY II",
+        "PRE"
+    ],
+    [
+        "CHEM F311",
+        "ORGANIC CHEMISTRY III",
+        "001117",
+        "CHEM",
+        "F212",
+        "ORGANIC CHEMISTRY I",
+        "PRE/ CO"
+    ],
+    [
+        "CHEM F312",
+        "PHYSICAL CHEMISTRY IV"
+    ],
+    [
+        "CHEM F313",
+        "INSTRU METHODS OF ANAL"
+    ],
+    [
+        "CHEM F323",
+        "BIOPHYSICAL CHEMISTRY"
+    ],
+    [
+        "CHEM F324",
+        "NUMERICAL METHOD IN CHEM"
+    ],
+    [
+        "CHEM F325",
+        "POLYMER CHEMISTRY"
+    ],
+    [
+        "CHEM F326",
+        "SOLID STATE CHEMISTRY"
+    ],
+    [
+        "CHEM F327",
+        "ELECTROCHEM FUNDA & APPL"
+    ],
+    [
+        "CHEM F328",
+        "SUPRAMOLECULAR CHEMISTRY"
+    ],
+    [
+        "CHEM F329",
+        "ANALYTICAL CHEMISTRY"
+    ],
+    [
+        "CHEM F330",
+        "PHOTOPHYSICAL CHEMISTRY",
+        "001118",
+        "CHEM",
+        "F213",
+        "PHYSICAL CHEMISTRY II",
+        "PRE"
+    ],
+    [
+        "CHEM F333",
+        "CHEMISTRY OF MATERIALS"
+    ],
+    
+    [
+        "CHEM F334",
+        "MAGNETIC RESONANCE",
+        "001118",
+        "CHEM",
+        "F213",
+        "PHYSICAL CHEMISTRY II",
+        "PRE",
+        "AND",
+        "001127",
+        "PHY",
+        "F212",
+        "ELECTROMA GNETIC THEO I",
+        "PRE"
+    ],
+    [
+        "CHEM F335",
+        "ORGANIC CHEM & DRUG DES",
+        "001562",
+        "CHEM",
+        "F311",
+        "ORGANIC CHEMISTRY III",
+        "PRE/ CO"
+    ],
+    [
+        "CHEM F336",
+        "NANOCHEMISTRY"
+    ],
+    [
+        "CHEM F337",
+        "GREEN CHEM & CATALYSIS"
+    ],
+    [
+        "CHEM F341",
+        "CHEMICAL EXPERIMENTATION II"
+    ],
+    [
+        "CHEM F342",
+        "ORGANIC CHEMISTRY IV"
+    ],
+    [
+        "CHEM F343",
+        "INORGANIC CHEMISTRY III"
+    ],
+    [
+        "CHEM F412",
+        "PHOTOCHEM & LASER SPECTR",
+        "001118",
+        "CHEM",
+        "F213",
+        "PHYSICAL CHEMISTRY II",
+        "PRE"
+    ],
+    [
+        "CHEM F413",
+        "E COREL IN ATOM & MOLEC",
+        "001557",
+        "CHEM",
+        "F244",
+        "PHYSICAL CHEMISTRY III",
+        "PRE"
+    ],
+    [
+        "CHEM F414",
+        "BIO & CHEMICAL SENSORS"
+    ],
+    [
+        "CHEM F415",
+        "FRONTIERS IN ORGANIC SYN",
+        "001559",
+        "CHEM",
+        "F311",
+        "ORGANIC CHEMISTRY III",
+        "PRE/ CO"
+    ],
+    [
+        "CHEM F422",
+        "STATISTICAL THERMODYNAM",
+        "001116",
+        "CHEM",
+        "F211",
+        "PHYSICAL CHEMISTRY I",
+        "PRE"
+    ],
+    [
+        "CS F111",
+        "COMPUTER PROGRAMMING"
+    ],
+    [
+        "CS F211",
+        "DATA STRUCTURES & ALGO",
+        "001091",
+        "CS",
+        "F222",
+        "DISCR STRUC FOR COMP SCI",
+        "PRE",
+        "OR",
+        "001123",
+        "MATH",
+        "F213",
+        "DISCRETE MATHEMATI CS",
+        "PRE"
+    ],
+    [
+        "CS F212",
+        "DATABASE SYSTEMS"
+    ],
+    [
+        "CS F213",
+        "OBJECT ORIENTED PROG",
+        "001008",
+        "CS",
+        "F111",
+        "COMPUTER PROGRAMMING",
+        "PRE"
+    ],
+    [
+        "CS F214",
+        "LOGIC IN COMPUTER SC"
+    ],
+    [
+        "CS F215",
+        "DIGITAL DESIGN"
+    ],
+    [
+        "CS F222",
+        "DISCR STRUC FOR COMP SCI"
+    ],
+    [
+        "CS F241",
+        "MICROPROC & INTERFACING"
+    ],
+    [
+        "CS F301",
+        "PRINCIPLES OF PROGG LANG",
+        "001094",
+        "CS",
+        "F211",
+        "DATA STRUCTURES & ALGO",
+        "PRE"
+    ],
+    [
+        "CS F303",
+        "COMPUTER NETWORKS",
+        "001315",
+        "CS",
+        "F372",
+        "OPERATING SYSTEMS",
+        "PRE"
+    ],
+    [
+        "CS F314",
+        "SOFT DEV FOR PORT DEVICE"
+    ],
+    [
+        "CS F342",
+        "COMPUTER ARCHITECTURE",
+        "001313",
+        "CS",
+        "F241",
+        "MICROPROC & INTERFACING",
+        "PRE",
+        "AND",
+        "001093",
+        "CS",
+        "F215",
+        "DIGITAL DESIGN",
+        "PRE"
+    ],
+    [
+        "CS F351",
+        "THEORY OF COMPUTATION",
+        "001091",
+        "CS",
+        "F222",
+        "DISCR STRUC FOR COMP SCI",
+        "PRE",
+        "AND",
+        "001090",
+        "CS",
+        "F214",
+        "LOGIC IN COMPUTER SC",
+        "PRE"
+    ],
+    [
+        "CS F363",
+        "COMPILER CONSTRUCTION",
+        "001314",
+        "CS",
+        "F351",
+        "THEORY OF COMPUTATION",
+        "PRE",
+        "AND",
+        "001316",
+        "CS",
+        "F301",
+        "PRINCIPLES OF PROGG LANG",
+        "PRE"
+    ],
+    [
+        "CS F364",
+        "DESIGN & ANAL OF ALGO",
+        "001094",
+        "CS",
+        "F211",
+        "DATA STRUCTURES & ALGO",
+        "PRE"
+    ],
+    [
+        "CS F372",
+        "OPERATING SYSTEMS"
+    ],
+    [
+        "CS F401",
+        "MULTIMEDIA COMPUTING"
+    ],
+    [
+        "CS F407",
+        "ARTIFICIAL INTELLIGENCE"
+    ],
+    [
+        "CS F413",
+        "INTERNETWORKING TECHNOLOG"
+    ],
+    [
+        "CS F415",
+        "DATA MINING"
+    ],
+    [
+        "CS F422",
+        "PARALLEL COMPUTING"
+    ],
+    [
+        "CS F424",
+        "SOFTWARE FOR EMBEDED SYS"
+    ],
+    [
+        "CS F441",
+        "SEL TOPICS FROM COMP SC"
+    ],
+    [
+        "CS F446",
+        "DATA STORAGE TECH & NETW"
+    ],
+    [
+        "CS F469",
+        "INFORMATION RETRIEVAL"
+    ],
+    [
+        "ECE F211",
+        "ELECTRICAL MACHINES",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "ECE F212",
+        "ELECTROMAGNETIC THEO I"
+    ],
+    [
+        "ECE F214",
+        "ELECTRONIC DEVICES",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "ECE F215",
+        "DIGITAL DESIGN"
+    ],
+    [
+        "ECE F241",
+        "MICROPROC & INTERFACING"
+    ],
+    [
+        "ECE F242",
+        "CONTROL SYSTEMS"
+    ],
+    [
+        "ECE F243",
+        "SIGNALS & SYSTEMS"
+    ],
+    [
+        "ECE F244",
+        "MICROELECTRONIC CIRCUITS"
+    ],
+    
+    [
+        "ECE F311",
+        "COMMUNICATION SYSTEMS",
+        "ECE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "ECE F312",
+        "EM FIELDS AND MICROWAVE ENGINEERING LABORATORY",
+        "EEE",
+        "F212",
+        "ELECTROMAGN ETIC THEORY",
+        "CO/P RE",
+        "OR",
+        "ECE",
+        "F212",
+        "ELECTROMA GNETIC THEORY",
+        "CO/P RE",
+        "OR",
+        "INSTR",
+        "F212",
+        "ELECTROM AGNETIC THEORY",
+        "CO/P RE"
+    ],
+    [
+        "ECE F314",
+        "EM FIELDS & MICRO ENGG"
+    ],
+    [
+        "ECE F341",
+        "ANALOG ELECTRONICS",
+        "ECE",
+        "F244",
+        "MICROELECTR ONIC CIRCUITS",
+        "PRE"
+    ],
+    [
+        "ECE F344",
+        "INFO THEORY & CODING",
+        "EEE",
+        "F243",
+        "SIGNALS & SYSTEM",
+        "PRE"
+    ],
+    [
+        "ECE F414",
+        "TELECOM SWIT SYS & NETWK"
+    ],
+    [
+        "ECE F416",
+        "DIGITAL COMMUNICATION"
+    ],
+    [
+        "ECE F418",
+        "MOD COMMUNICATION TECH",
+        "ECE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "ECE F431",
+        "MOBILE TELECOM NETWORKS",
+        "ECE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "ECE F434",
+        "DIGITAL SIGNAL PROCESS",
+        "ECE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "ECE F472",
+        "SATELLITE COMMUNICATION",
+        "ECE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "ECON F211",
+        "PRINCIPLES OF ECONOMICS"
+    ],
+    [
+        "ECON F212",
+        "FUNDA OF FIN AND ACCOUNT"
+    ],
+    [
+        "ECON F213",
+        "MATHEMATIC & STAT METHOD"
+    ],
+    [
+        "ECON F214",
+        "ECONOMIC ENV OF BUSINESS"
+    ],
+    [
+        "ECON F241",
+        "ECONOMETRIC METHODS"
+    ],
+    [
+        "ECON F242",
+        "MICROECONOMICS",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F243",
+        "MACROECONOMICS",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F244",
+        "ECONOMIC OF GROWTH & DEV",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F311",
+        "INTERNATIONAL ECONOMICS",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F312",
+        "MONEY BANK & FIN MARKETS",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F313",
+        "ISSUES IN ECONOMIC DEV",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F341",
+        "PUBLIC FIN THEO & POLICY",
+        "001023",
+        "ECON",
+        "F211",
+        "PRINCIPLES OF ECONOMICS",
+        "PRE"
+    ],
+    [
+        "ECON F342",
+        "APPLIED ECONOMETRICS",
+        "001442",
+        "ECON",
+        "F241",
+        "ECONOMETRIC METHODS",
+        "PRE"
+    ],
+    [
+        "ECON F343",
+        "ECONOMIC ANAL OF PUB POL"
+    ],
+    [
+        "ECON F344",
+        "MODELS IN OPERATIONS MANAGEMENT"
+    ],
+    [
+        "ECON F345",
+        "BEHAVIORAL ECONOMICS"
+    ],
+    [
+        "ECON F351",
+        "INDIAN ECONOMIC DEV"
+    ],
+    [
+        "ECON F352",
+        "MGMT OF BANKS & FIN INST"
+    ],
+    [
+        "ECON F353",
+        "ENERGY ECONOMIC & POLICY"
+    ],
+    [
+        "ECON F354",
+        "DERIVATIVES & RISK MGMT"
+    ],
+    [
+        "ECON F355",
+        "BUSS ANAL & VALUATION"
+    ],
+    [
+        "ECON F356",
+        "STRATEGIC FINANCIAL MGMT"
+    ],
+    [
+        "ECON F357",
+        "MGMT CONTROL SYSTEM"
+    ],
+    [
+        "ECON F411",
+        "PROJECT APPRAISAL"
+    ],
+    [
+        "ECON F412",
+        "SECUR ANAL & PORTFOL MGT"
+    ],
+    [
+        "ECON F413",
+        "FINANCIAL ENGINEERING",
+        "001565",
+        "ECON",
+        "F354",
+        "DERIVATIVES & RISK MGMT",
+        "PRE"
+    ],
+    [
+        "ECON F414",
+        "CREAT & LEAD ENTREP ORGN"
+    ],
+    [
+        "ECON F415",
+        "NEW VENTURE CREATION"
+    ],
+    [
+        "ECON F416",
+        "REGIONAL ECONOMICS"
+    ],
+    [
+        "ECON F418",
+        "QUANTITATIVE ANALYSIS OF INTERNATIONAL TRADE"
+    ],
+    [
+        "ECON F422",
+        "FUNT & WORK STOCK EXCHAN"
+    ],
+    [
+        "ECON F471",
+        "RESOURCES & ENVIR ECON"
+    ],
+    [
+        "EEE F111",
+        "ELECTRICAL SCIENCES"
+    ],
+    [
+        "EEE F211",
+        "ELECTRICAL MACHINES",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "EEE F212",
+        "ELECTROMAGNETIC THEO I"
+    ],
+    [
+        "EEE F214",
+        "ELECTRONIC DEVICES",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    
+    [
+        "EEE F215",
+        "DIGITAL DESIGN"
+    ],
+    [
+        "EEE F241",
+        "MICROPROC & INTERFACING"
+    ],
+    [
+        "EEE F242",
+        "CONTROL SYSTEMS"
+    ],
+    [
+        "EEE F243",
+        "SIGNALS & SYSTEMS"
+    ],
+    [
+        "EEE F244",
+        "MICROELECTRONIC CIRCUITS"
+    ],
+    [
+        "EEE F245",
+        "CONTROL SYSTEM LABORARTORY",
+        "EEE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "CO/P RE",
+        "OR",
+        "ECE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "CO/P RE",
+        "OR",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "CO/P RE"
+    ],
+    [
+        "EEE F246",
+        "ELECTRIC & ELECTRONIC CIR LAB",
+        "EEE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "CO/P RE",
+        "AND",
+        "EEE",
+        "F244",
+        "MICROELEC TRONIC CIRCUITS",
+        "CO/P RE"
+    ],
+    [
+        "EEE F311",
+        "COMMUNICATION SYSTEMS",
+        "001240",
+        "EEE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F312",
+        "POWER SYSTEMS"
+    ],
+    [
+        "EEE F313",
+        "ANALOG & DIGIT VLSI DES",
+        "001241",
+        "EEE /ECE",
+        "F244",
+        "MICROELECTR ONIC CIRCUITS",
+        "PRE"
+    ],
+    [
+        "EEE F341",
+        "ANALOG ELECTRONICS",
+        "001241",
+        "EEE",
+        "F244",
+        "MICROELECTR ONIC CIRCUITS",
+        "PRE"
+    ],
+    [
+        "EEE F342",
+        "POWER ELECTRONICS"
+    ],
+    [
+        "EEE F345",
+        "POWER APPARATUS & NETWK",
+        "001077",
+        "EEE/ INSTR/ ECE",
+        "F211",
+        "ELECTRICAL MACHINES",
+        "PRE"
+    ],
+    [
+        "EEE F346",
+        "DATA COMMUNIC & NETWORKS"
+    ],
+    [
+        "EEE F347",
+        "COMMUNICATION NETWORKS LABORATORY"
+    ],
+    [
+        "EEE F348",
+        "FPGA BASED SYSTEM DESIGN LAB",
+        "EEE",
+        "F215",
+        "DIGITAL DESIGN",
+        "PRE",
+        "AND",
+        "EEE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F414",
+        "TELECOM SWIT SYS & NETWK"
+    ],
+    [
+        "EEE F416",
+        "DIGITAL COMMUNICATION",
+        "001242"
+    ],
+    [
+        "EEE F418",
+        "MOD COMMUNICATION TECH",
+        "001242",
+        "EEE/ INSTR",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F422",
+        "MODERN CONTROL SYSTEMS",
+        "001239",
+        "EEE/ ECE/ INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F425",
+        "POWER SYS ANAL & CONTROL"
+    ],
+    [
+        "EEE F426",
+        "FIBRE OPTICS & OPTOELECT"
+    ],
+    [
+        "EEE F427",
+        "ELEC POWER UTIL & ILLUM"
+    ],
+    [
+        "EEE F431",
+        "MOBILE TELECOM NETWORKS",
+        "001240",
+        "EEE/ INSTR",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F432",
+        "MEDICAL INSTRUMENTATION"
+    ],
+    [
+        "EEE F433",
+        "ELECTR MAG FIELD & WAVES",
+        "001078",
+        "EEE/ INSTR",
+        "F212",
+        "ELECTROMAGN ETIC THEO",
+        "PRE",
+        "1127",
+        "PHY",
+        "F212",
+        "ELECTROMA GNE TIC THEO I"
+    ],
+    [
+        "EEE F434",
+        "DIGITAL SIGNAL PROCESS",
+        "001240",
+        "EEE",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F435",
+        "DIGITAL IMAGE PROCESSING"
+    ],
+    [
+        "EEE F472",
+        "SATELLITE COMMUNICATION",
+        "001242",
+        "EEE/ INSTR",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE F473",
+        "WIND ELECTRICAL SYSTEMS"
+    ],
+    [
+        "EEE F474",
+        "ANTENNA THEORY AND DESIGN"
+    ],
+    [
+        "EEE F475",
+        "SPECIAL ELECTRICAL MACHINES"
+    ],
+    [
+        "EEE F476",
+        "SWITCHGEAR AND PROTECTION"
+    ],
+    [
+        "EEE F477",
+        "MODELING OF FIELD-EFFECT NANODEVICES"
+    ],
+    [
+        "EEE F478",
+        "POWER SYSTEMS LABORATORY",
+        "1244",
+        "EEE",
+        "F312",
+        "POWER SYSTEMS",
+        "CO/P RE"
+    ],
+    [
+        "EEE G512",
+        "EMBEDDED SYSTEM DESIGN",
+        "ECE",
+        "F241",
+        "MICROPROCES SORS AND INTERFACING",
+        "PRE",
+        "OR",
+        "EEE",
+        "F241",
+        "MICROPROC ESSORS AND INTERFACI NG",
+        "PRE",
+        "INSTR",
+        "F241",
+        "MICROPRO CESSORS AND INTERFACI NG"
+    ],
+    [
+        "EEE G547",
+        "DEVICE DRIVERS",
+        "EEE",
+        "G512",
+        "EMBEDDED SYSTEM DESIGN",
+        "PRE"
+    ],
+    [
+        "EEE G593",
+        "POWER QUALITY"
+    ],
+    [
+        "EEE G594",
+        "ADVANCED VLSI DEVICES"
+    ],
+    [
+        "EEE G595",
+        "NANOELECTRONICS AND NANOPHOTONICS TECHNOLOGY"
+    ],
+    [
+        "FIN F212",
+        "FUNDA OF FIN AND ACCOUNT"
+    ],
+    [
+        "FIN F213",
+        "MATHEMATIC & STAT METHOD"
+    ],
+    [
+        "FIN F214",
+        "ECONOMIC ENV OF BUSINESS"
+    ],
+    [
+        "FIN F242",
+        "INTRO TO FINANCIAL MATH"
+    ],
+    
+    [
+        "FIN F243",
+        "FUNT & WORK STOCK EXCHAN"
+    ],
+    [
+        "FIN F244",
+        "INDIAN FINANCIAL SYSTEM"
+    ],
+    [
+        "FIN F311",
+        "DERIVATIVES & RISK MGMT"
+    ],
+    [
+        "FIN F312",
+        "FUND OF TAXATION & AUDIT"
+    ],
+    [
+        "FIN F313",
+        "SECUR ANAL & PORTFOL MGT"
+    ],
+    [
+        "FIN F314",
+        "INVEST BANK & FIN SERV"
+    ],
+    [
+        "FIN F315",
+        "FINANCIAL MANAGEMENT",
+        "001143",
+        "FIN",
+        "F212",
+        "FUNDA OF FIN AND ACCOUNT",
+        "PRE"
+    ],
+    [
+        "FIN F341",
+        "INTER FIN MARKETS & SER"
+    ],
+    [
+        "FIN F342",
+        "PROJECT FINANCE"
+    ],
+    [
+        "GS F211",
+        "MOD POLITICAL CONCEPTS"
+    ],
+    [
+        "GS F212",
+        "ENVIRON DEV & CLIMATE CH"
+    ],
+    [
+        "GS F213",
+        "DEVELOPMENT THEORIES"
+    ],
+    [
+        "GS F221",
+        "BUSINESS COMMUNICATION"
+    ],
+    [
+        "GS F222",
+        "LANGUAGE LAB PRACTICE"
+    ],
+    [
+        "GS F223",
+        "INTRO TO MASS COMM"
+    ],
+    [
+        "GS F224",
+        "PRINT & AUDIO- VISU ADVER"
+    ],
+    [
+        "GS F231",
+        "DYN OF SOCIAL CHANGE"
+    ],
+    [
+        "GS F232",
+        "INTRODUCTORY PSYCHOLOGY"
+    ],
+    [
+        "GS F233",
+        "PUBLIC POLICY"
+    ],
+    [
+        "GS F234",
+        "DEVELOPMENT ECONOMICS"
+    ],
+    [
+        "GS F241",
+        "CREATIVE WRITING"
+    ],
+    [
+        "GS F242",
+        "CULTURAL STUDIES"
+    ],
+    [
+        "GS F243",
+        "CURRENT AFFAIRS"
+    ],
+    [
+        "GS F244",
+        "REPORT & WRITE FOR MEDIA"
+    ],
+    [
+        "GS F245",
+        "EFFECTIVE PUBLIC SPEAK"
+    ],
+    [
+        "GS F311",
+        "INTRO TO CONFLICT MGMT"
+    ],
+    [
+        "GS F312",
+        "APPLIED PHILOSOPHY"
+    ],
+    [
+        "GS F321",
+        "MASS MEDIA & CONTENT DES"
+    ],
+    [
+        "GS F322",
+        "CRITI ANAL OF LIT & CINE"
+    ],
+    [
+        "GS F325",
+        "JOURNALISM"
+    ],
+    [
+        "GS F326",
+        "CREATIVE THINKING"
+    ],
+    [
+        "GS F327",
+        "SELECTED READING"
+    ],
+    [
+        "GS F331",
+        "TECH IN SOCIAL RESEARCH"
+    ],
+    [
+        "GS F332",
+        "CONTEMPORARY INDIA"
+    ],
+    [
+        "GS F333",
+        "PUBLIC ADMINISTRATION"
+    ],
+    [
+        "GS F334",
+        "GLOBAL BUSINESS TEC & KS"
+    ],
+    [
+        "GS F341",
+        "COPYWRITING"
+    ],
+    [
+        "GS F342",
+        "COMPUTER MEDIATED COMM"
+    ],
+    [
+        "GS F343",
+        "SHORT FILM & VIDEO PROD"
+    ],
+    [
+        "HIST F112",
+        "MAIN TRENDS IN IND HIST"
+    ],
+    [
+        "HIST F211",
+        "MAIN CURRENTS OF MOD HIST"
+    ],
+    [
+        "HSS F224",
+        "PRINT & AUDIO- VISU ADVER"
+    ],
+    [
+        "HSS F226",
+        "POST MODERNISM"
+    ],
+    [
+        "HSS F227",
+        "CROSS CULTURAL SKILLS"
+    ],
+    [
+        "HSS F237",
+        "CONTEMPORARY INDAIN ENGLISH FICTION"
+    ],
+    [
+        "HSS F238",
+        "SPORTS AND SOCIETY"
+    ],
+    [
+        "HSS F312",
+        "BUREAUCRACY"
+    ],
+    [
+        "HSS F315",
+        "SOCIETY, BUS, & POLITICS"
+    ],
+    [
+        "HSS F324",
+        "CREATIVE & CRITICAL THIN"
+    ],
+    [
+        "HSS F325",
+        "CINEMATIC ADAPTATION"
+    ],
+    [
+        "HSS F326",
+        "HUMANITIES & DESIGN"
+    ],
+    [
+        "HSS F327",
+        "CONTEMPORARY DRAMA"
+    ],
+    [
+        "HSS F341",
+        "COPY WRITING"
+    ],
+    [
+        "HSS F343",
+        "SHORT FILM & VIDEO PROD"
+    ],
+    [
+        "HSS F351",
+        "SOCIAL AND POLITICAL ECOLOGY"
+    ],
+    [
+        "HSS F352",
+        "TECHNOLOGY, WORK AND SOCIETY"
+    ],
+    [
+        "HSS F353",
+        "PHILOSOPHY OF AESTHETICS"
+    ],
+    
+    [
+        "HSS F354",
+        "INTRODUCTION TO ISLAMIC ECONOMY"
+    ],
+    [
+        "HSS F355",
+        "DICTATORSHIP, DEMOCRACY & DEVELOPMENT"
+    ],
+    [
+        "HSS F356",
+        "SOCIAL MOVEMENTS AND PROTEST POLITICS"
+    ],
+    [
+        "HSS F399",
+        "INTRODUCTION TO AMERICAN LITERATURE"
+    ],
+    [
+        "HUM F411",
+        "PROFESSIONAL ETHICS"
+    ],
+    [
+        "HUM F412",
+        "HERITAGE OF INDIA"
+    ],
+    [
+        "INSTR F211",
+        "ELECTRICAL MACHINES",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "INSTR F212",
+        "ELECTROMAGNETIC THEO I"
+    ],
+    [
+        "INSTR F214",
+        "ELECTRONIC DEVICES",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "INSTR F215",
+        "DIGITAL DESIGN"
+    ],
+    [
+        "INSTR F241",
+        "MICROPROC & INTERFACING"
+    ],
+    [
+        "INSTR F242",
+        "CONTROL SYSTEMS"
+    ],
+    [
+        "INSTR F243",
+        "SIGNALS & SYSTEMS"
+    ],
+    [
+        "INSTR F244",
+        "MICROELECTRONIC CIRCUITS"
+    ],
+    [
+        "INSTR F311",
+        "ELECTRO INST & INST TECH"
+    ],
+    [
+        "INSTR F312",
+        "TRANSD & MEASUREMENT TEC"
+    ],
+    [
+        "INSTR F313",
+        "ANALOG & DIGIT VLSI DES",
+        "001241",
+        "INSTR",
+        "F244",
+        "MICROELECTR ONIC CIRCUITS",
+        "PRE"
+    ],
+    [
+        "INSTR F341",
+        "ANALOG ELECTRONICS",
+        "INSTR",
+        "F244",
+        "MICROELECTR ONIC CIRCUITS",
+        "PRE"
+    ],
+    [
+        "INSTR F342",
+        "POWER ELECTRONICS"
+    ],
+    [
+        "INSTR F343",
+        "INDUS INSTRUMENT & CONT"
+    ],
+    [
+        "INSTR F411",
+        "OPTO ELECTRONIC INSTRU"
+    ],
+    [
+        "INSTR F412",
+        "ANALYSIS INSTRUMENTATION",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "INSTR F413",
+        "ADVANCE PROCESS CONTROL",
+        "001350",
+        "INSTR",
+        "F343",
+        "INDUS INSTRUMENT & CONT",
+        "PRE"
+    ],
+    [
+        "INSTR F414",
+        "TELECOM SWIT SYS & NETWK",
+        "INSTR",
+        "F243",
+        "SIGNALS & SYSTEMS",
+        "PRE"
+    ],
+    [
+        "INSTR F415",
+        "DIGITAL CONTROL",
+        "001342",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE"
+    ],
+    [
+        "INSTR F419",
+        "VIRTUAL INSTRUMENTATION"
+    ],
+    [
+        "INSTR F420",
+        "DESIGN OF INSTRU SYSTEMS"
+    ],
+    [
+        "INSTR F422",
+        "INSTRU FOR PETROCHEM IND"
+    ],
+    [
+        "INSTR F432",
+        "MEDICAL INSTRUMENTATION"
+    ],
+    [
+        "INSTR F473",
+        "WIND ELECTRICAL SYSTEMS"
+    ],
+    [
+        "IS F211",
+        "DATA STRUCTURES & ALGO",
+        "001139",
+        "IS",
+        "F222",
+        "DISCR STRUC FOR COMP SCI",
+        "PRE"
+    ],
+    [
+        "IS F213",
+        "OBJECT ORIENTED PROG",
+        "001008",
+        "CS",
+        "F111",
+        "COMPUTER PROGRAMMING",
+        "PRE"
+    ],
+    [
+        "IS F214",
+        "LOGIC IN COMPUTER SC"
+    ],
+    [
+        "IS F222",
+        "DISCR STRUC FOR COMP SCI"
+    ],
+    [
+        "IS F241",
+        "DIGITAL ELECTRO & MICRO",
+        "001009",
+        "EEE",
+        "F111",
+        "ELECTRICAL SCIENCES",
+        "PRE"
+    ],
+    [
+        "IS F242",
+        "COMPUTER ORGANIZATION",
+        "001526",
+        "IS",
+        "F241",
+        "DIGITAL ELECTRO & MICRO",
+        "PRE"
+    ],
+    [
+        "IS F243",
+        "DATABASE SYSTEMS & APPL"
+    ],
+    [
+        "IS F301",
+        "PRINCIPLES OF PROGG LANG",
+        "001142",
+        "IS",
+        "F211",
+        "DATA STRUCTURES & ALGO",
+        "PRE"
+    ],
+    [
+        "IS F303",
+        "COMPUTER NETWORKS",
+        "001530",
+        "IS",
+        "F372",
+        "OPERATING SYSTEMS",
+        "PRE"
+    ],
+    [
+        "IS F311",
+        "COMPUTER GRAPHICS"
+    ],
+    [
+        "IS F322",
+        "SOFTWARE TESTING",
+        "001529",
+        "IS",
+        "F341",
+        "SOFTWARE ENGINEERING",
+        "PRE"
+    ],
+    [
+        "IS F341",
+        "SOFTWARE ENGINEERING",
+        "001140",
+        "IS",
+        "F213",
+        "OBJECT ORIENTED PROG",
+        "PRE"
+    ],
+    [
+        "IS F342",
+        "COMPILER DESIGN",
+        "001531",
+        "IS",
+        "F301",
+        "PRINCIPLES OF PROGG LANG",
+        "PRE"
+    ],
+    [
+        "IS F372",
+        "OPERATING SYSTEMS"
+    ],
+    [
+        "IS F462",
+        "NETWORK PROGRAMMING"
+    ],
+    
+    [
+        "MATH F111",
+        "MATHEMATICS-I"
+    ],
+    [
+        "MATH F112",
+        "MATHEMATICS-II"
+    ],
+    [
+        "MATH F113",
+        "PROBABILITY & STATISTICS"
+    ],
+    [
+        "MATH F211",
+        "MATHEMATICS III"
+    ],
+    [
+        "MATH F212",
+        "OPTIMIZATION",
+        "001010",
+        "MATH",
+        "F111",
+        "MATHEMATICS -I",
+        "PRE",
+        "AND",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE"
+    ],
+    [
+        "MATH F213",
+        "DISCRETE MATHEMATICS"
+    ],
+    [
+        "MATH F214",
+        "ELEMENTARY REAL ANALYSIS"
+    ],
+    [
+        "MATH F215",
+        "ALGEBRA I"
+    ],
+    [
+        "MATH F231",
+        "NUMBER THEORY"
+    ],
+    [
+        "MATH F241",
+        "MATHEMATICAL METHODS"
+    ],
+    [
+        "MATH F242",
+        "OPERATIONS RESEARCH",
+        "001012",
+        "MATH",
+        "F113",
+        "PROBABILITY & STATISTICS",
+        "PRE"
+    ],
+    [
+        "MATH F243",
+        "GRAPHS AND NETWORKS"
+    ],
+    [
+        "MATH F244",
+        "MEASURE & INTEGRATION",
+        "001124",
+        "MATH",
+        "F214",
+        "ELEMENTARY REAL ANALYSIS",
+        "PRE"
+    ],
+    [
+        "MATH F311",
+        "INTRODUCTION TO TOPOLOGY"
+    ],
+    [
+        "MATH F312",
+        "ORDINARY DIFF EQUATIONS",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE"
+    ],
+    [
+        "MATH F313",
+        "NUMERICAL ANALYSIS",
+        "001010",
+        "MATH",
+        "F111",
+        "MATHEMATICS -I",
+        "PRE",
+        "AND",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE"
+    ],
+    [
+        "MATH F314",
+        "ALGEBRA-II",
+        "001125",
+        "MATH",
+        "F215",
+        "ALGEBRA I",
+        "PRE"
+    ],
+    [
+        "MATH F341",
+        "INTRO TO FUNCTIONAL ANAL",
+        "001124",
+        "MATH",
+        "F214",
+        "ELEMENTARY REAL ANALYSIS",
+        "PRE"
+    ],
+    [
+        "MATH F342",
+        "DIFFERENTIAL GEOMETRY",
+        "001124",
+        "MATH",
+        "F214",
+        "ELEMENTARY REAL ANALYSIS",
+        "PRE"
+    ],
+    [
+        "MATH F343",
+        "PARTIAL DIFF EQUATIONS",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE"
+    ],
+    [
+        "MATH F344",
+        "MATHEMATICAL FLUID DYNAMICS",
+        "MATH",
+        "F111",
+        "MATH-I",
+        "PRE",
+        "AND",
+        "MATH",
+        "F112",
+        "MATH-II",
+        "PRE",
+        "AN D",
+        "MATH",
+        "F211",
+        "MATH-III",
+        "PRE"
+    ],
+    [
+        "MATH F353",
+        "STATISTICAL INFER & APP",
+        "001012",
+        "MATH",
+        "F113",
+        "PROBABILITY & STATISTICS",
+        "PRE"
+    ],
+    [
+        "MATH F354",
+        "COMPLEX ANALYSIS",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATICS -II",
+        "PRE"
+    ],
+    [
+        "MATH F378",
+        "ADVANCED PROBABILITY THEORY",
+        "MATH",
+        "F113",
+        "PROBABILITY AND STATISTICS",
+        "PRE",
+        "AND",
+        "MATH",
+        "F244",
+        "MEASURE AND INTEGRATI ON",
+        "PRE"
+    ],
+    [
+        "MATH F421",
+        "COMBINATORIAL MATHS"
+    ],
+    [
+        "MATH F431",
+        "DISTRIBUTION THEORY"
+    ],
+    [
+        "MATH F441",
+        "DISCRETE MATHS STRUC"
+    ],
+    [
+        "MATH F444",
+        "NUMERICAL SOLS OF ODE",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE",
+        "AND",
+        "MATH",
+        "F313"
+    ],
+    [
+        "MATH F420",
+        "MATHEMATICAL MODELLING",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE"
+    ],
+    [
+        "MATH F422",
+        "NUMERICAL METHODOLOGY FOR PARTIAL DIFFERENTIAL EQUATIONS",
+        "MATH",
+        "F211",
+        "MATHEMATICS -III",
+        "PRE",
+        "AND",
+        "MATH",
+        "F313",
+        "NUMERICAL ANALYSIS",
+        "PRE"
+    ],
+    [
+        "MATH F423",
+        "INTRODUCTION TO ALGEBRAIC TOPOLOGY",
+        "MATH",
+        "F215",
+        "ALGEBRA I",
+        "PRE",
+        "AND",
+        "MATH",
+        "F311",
+        "INTRODUCT ION TO TOPOLOGY"
+    ],
+    [
+        "MATH F424",
+        "APPLIED STOCHASTIC PROCESS",
+        "MATH",
+        "F113",
+        "PROBABILITY AND STATISTICS",
+        "PRE"
+    ],
+    [
+        "MATH F444",
+        "NUMERICAL SOLUTIONS OF ORDINARY DIFFERENTIAL EQUATIONS",
+        "MATH",
+        "F211",
+        "MATHEMATICS -III",
+        "PRE",
+        "AND",
+        "MATH",
+        "F313",
+        "NUMERICAL ANALYSIS",
+        "PRE"
+    ],
+    [
+        "MATH F456",
+        "COSMOLOGY"
+    ],
+    [
+        "MATH F471",
+        "NONLINEAR OPTIMIZATION"
+    ],
+    [
+        "MATH F492",
+        "WEVELET ANALYSIS AND APPLICATIONS",
+        "MATH",
+        "F211",
+        "MATHEMATICS -III"
+    ],
+    [
+        "MBA G553",
+        "ORGANIZATIONAL CHANGE AND DEVELOPMENT"
+    ],
+    [
+        "MBA G554",
+        "INNOVATIVE LEADERSHIP"
+    ],
+    [
+        "MBA G555",
+        "INTERNATIONAL HUMAN RESOURCE MANAGEMENT"
+    ],
+    [
+        "MBA G556",
+        "PERFORMANCE MANAGEMENT"
+    ],
+    [
+        "ME F110",
+        "WORKSHOP PRACTICE"
+    ],
+    [
+        "ME F211",
+        "MECHANICS OF SOLIDS"
+    ],
+    [
+        "ME F212",
+        "FLUID MECHANICS"
+    ],
+    [
+        "ME F213",
+        "MATERIALS SCIENCE & ENGG"
+    ],
+    
+    [
+        "ME F214",
+        "APPLIED THERMODYNAMICS",
+        "001004",
+        "BITS",
+        "F111",
+        "THERMODYNA MICS",
+        "PRE"
+    ],
+    [
+        "ME F215",
+        "MECHANICAL ENGG LAB"
+    ],
+    [
+        "ME F241",
+        "MACHINE DESIGN & DRAWING",
+        "001003",
+        "BITS",
+        "F110",
+        "ENGINEERING GRAPHICS",
+        "PRE"
+    ],
+    [
+        "ME F242",
+        "IC ENGINES",
+        "001004",
+        "BITS",
+        "F111",
+        "THERMODYNA MICS",
+        "PRE"
+    ],
+    [
+        "ME F243",
+        "PRODUCTION TECHNIQUES I",
+        "001013",
+        "ME",
+        "F110",
+        "WORKSHOP PRACTICE",
+        "PRE"
+    ],
+    [
+        "ME F244",
+        "KIN & DYN OF MACHINES"
+    ],
+    [
+        "ME F311",
+        "HEAT TRANSFER",
+        "001082",
+        "ME",
+        "F212",
+        "FLUID MECHANICS",
+        "PRE"
+    ],
+    [
+        "ME F312",
+        "ADV MECHANICS OF SOLIDS",
+        "001083",
+        "ME",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE"
+    ],
+    [
+        "ME F313",
+        "PRODUCTION TECHNIQUES II",
+        "001013",
+        "ME",
+        "F110",
+        "WORKSHOP PRACTICE",
+        "PRE"
+    ],
+    [
+        "ME F341",
+        "PRIMEMOVERS & FLUID MACH",
+        "001082",
+        "ME",
+        "F212",
+        "FLUID MECHANICS",
+        "PRE",
+        "AND",
+        "001084",
+        "ME",
+        "F214",
+        "APPLIED THERMODY NAMICS",
+        "PRE"
+    ],
+    [
+        "ME F342",
+        "COMPUTER AIDED DESIGN"
+    ],
+    [
+        "ME F343",
+        "MECHANICAL VIBRATIONS"
+    ],
+    [
+        "ME F344",
+        "ENGINEERING OPTIMIZATION"
+    ],
+    [
+        "ME F411",
+        "FLUID POWER SYSTEMS"
+    ],
+    [
+        "ME F413",
+        "NONLINEAR VIBRATIONS"
+    ],
+    [
+        "ME F415",
+        "GAS DYNAMICS"
+    ],
+    [
+        "ME F416",
+        "REV ENG & RAPID PROTOTYP"
+    ],
+    [
+        "ME F417",
+        "ADVANCED METAL FORMING"
+    ],
+    [
+        "ME F418",
+        "ROCKET & SPACECRAFT PROP"
+    ],
+    [
+        "ME F419",
+        "TOTAL PRODUCT INTEG ENGG"
+    ],
+    [
+        "ME F420",
+        "POWER PLANT ENGINEERING"
+    ],
+    [
+        "ME F432",
+        "COMPUTER AIDED MANUFACT"
+    ],
+    [
+        "ME F441",
+        "AUTOMOTIVE VEHICLES"
+    ],
+    [
+        "ME F443",
+        "QUALI CONTRO ASSUR & REL"
+    ],
+    [
+        "ME F451",
+        "MECHANICAL EQUIPMENT DES"
+    ],
+    [
+        "ME F452",
+        "COMPOSITE MATERL & DESIGN"
+    ],
+    [
+        "ME F461",
+        "REFRIGERATION & AIRCOND"
+    ],
+    [
+        "ME F472",
+        "PRECISION ENGINEERING"
+    ],
+    [
+        "ME F481",
+        "PROJECT APPRAISAL"
+    ],
+    [
+        "ME F482",
+        "COMBUSTION"
+    ],
+    [
+        "ME F483",
+        "WIND ENERGY"
+    ],
+    [
+        "ME F484",
+        "AUTOMOTIVE TECHNOLOGY"
+    ],
+    [
+        "ME F485",
+        "NUMERICAL TECHNIQUES FOR FLUID FLOW AND HEAT TRANSFER"
+    ],
+    [
+        "ME F491",
+        "SPECIAL PROJECTS"
+    ],
+    [
+        "ME G612",
+        "PLASTIC ENGINEERING"
+    ],
+    [
+        "MF F211",
+        "MECHANICS OF SOLIDS"
+    ],
+    [
+        "MF F212",
+        "FLUID MECHANICS"
+    ],
+    [
+        "MF F213",
+        "MATERIALS SCIENCE & ENGG"
+    ],
+    [
+        "MF F214",
+        "APPLIED THERMODYNAMICS",
+        "001004",
+        "BITS",
+        "F111",
+        "THERMODYNA MICS",
+        "PRE"
+    ],
+    [
+        "MF F215",
+        "MECHANICAL ENGG LAB"
+    ],
+    [
+        "MF F241",
+        "MACHINE DESIGN & DRAWING",
+        "001003",
+        "BITS",
+        "F110",
+        "ENGINEERING GRAPHICS",
+        "PRE"
+    ],
+    [
+        "MF F242",
+        "MANUFACTURING MANAGEMENT"
+    ],
+    [
+        "MF F243",
+        "MANUFACTURING PROCESSES",
+        "001013",
+        "ME",
+        "F110",
+        "WORKSHOP PRACTICE",
+        "PRE"
+    ],
+    [
+        "MF F244",
+        "KIN & DYN OF MACHINES"
+    ],
+    [
+        "MF F311",
+        "MECHATRONICS & AUTOMAT"
+    ],
+    [
+        "MF F312",
+        "TOOL & FIXTURE DESIGN",
+        "001013",
+        "ME",
+        "F110",
+        "WORKSHOP PRACTICE",
+        "PRE"
+    ],
+    [
+        "MF F313",
+        "METAL FORMING & MACHINE",
+        "001013",
+        "ME",
+        "F110",
+        "WORKSHOP PRACTICE",
+        "PRE"
+    ],
+    [
+        "MF F341",
+        "DESIGN OF MACHINE TOOLS"
+    ],
+    [
+        "MF F342",
+        "COMPUTER AIDED DESIGN"
+    ],
+    [
+        "MF F343",
+        "CASTING & WELDING"
+    ],
+    
+    [
+        "MF F344",
+        "ENGINEERING OPTIMIZATION"
+    ],
+    [
+        "MF F411",
+        "FLUID POWER SYSTEMS"
+    ],
+    [
+        "MF F412",
+        "AUTOMOTIVE SYSTEMS"
+    ],
+    [
+        "MF F413",
+        "MECH VIBRAT & ACOUSTICS"
+    ],
+    [
+        "MF F414",
+        "MANUFACTURING EXCELLENCE"
+    ],
+    [
+        "MF F418",
+        "LEAN MANUFACTURING"
+    ],
+    [
+        "MF F421",
+        "SUPPLY CHAIN MANAGEMENT"
+    ],
+    [
+        "MF F442",
+        "ADV IN MATERIALS SCIENCE"
+    ],
+    [
+        "MF F453",
+        "INDUSTRIAL RELATIONS"
+    ],
+    [
+        "MF F463",
+        "MAINTENANCE & SAFETY"
+    ],
+    [
+        "MF F471",
+        "INSTRU & CONTROL"
+    ],
+    [
+        "MF F472",
+        "PRECISION ENGINEERING"
+    ],
+    [
+        "MF F473",
+        "PRODUCT DESIGN & DEVELOP"
+    ],
+    [
+        "MF F474",
+        "PRODUCT DES & DEV PROJ"
+    ],
+    [
+        "MF F491",
+        "SPECIAL PROJECTS"
+    ],
+    [
+        "MGTS F211",
+        "PRINCIPLES OF MANAGEMENT"
+    ],
+    [
+        "MST F331",
+        "MATERIALS CHARACTERIZATION"
+    ],
+    [
+        "MST F332",
+        "MATERIALS PROCESSING"
+    ],
+    [
+        "MST F333",
+        "INTRODUCTION TO BIOMATERIALS"
+    ],
+    [
+        "MST F334",
+        "MATERIALS FOR CATALYTIC APPLICATIONS"
+    ],
+    [
+        "MST F335",
+        "COATING AND THIN FILM TECHNOLOGY"
+    ],
+    [
+        "MST F336",
+        "GLASS TECHNOLOGY"
+    ],
+    [
+        "MST F337",
+        "MATERIALS FOR ENERGY APPLICATIONS"
+    ],
+    [
+        "MST F338",
+        "METALS AND ALLOYS"
+    ],
+    [
+        "MST F339",
+        "POLYMER MATERIALS"
+    ],
+    [
+        "PHA F211",
+        "PHARMACEUTICAL ANALYSIS"
+    ],
+    [
+        "PHA F212",
+        "DISPENSING PHARMACY"
+    ],
+    [
+        "PHA F213",
+        "MICROBIOLOGY"
+    ],
+    [
+        "PHA F214",
+        "ANATOMY PHYSIO & HYGIENE"
+    ],
+    [
+        "PHA F215",
+        "INTRODUCTION TO MOLECULAR BIOLOGY & IMMUNOLOGY"
+    ],
+    [
+        "PHA F241",
+        "PHARMACEUTICAL CHEMISTRY"
+    ],
+    [
+        "PHA F242",
+        "BIOLOGICAL CHEMISTRY"
+    ],
+    [
+        "PHA F243",
+        "INDUSTRIAL PHARMACY"
+    ],
+    [
+        "PHA F244",
+        "PHYSICAL PHARMACY"
+    ],
+    [
+        "PHA F311",
+        "PHARMACOLOGY I",
+        "001087",
+        "PHA",
+        "F214",
+        "ANATOMY PHYSIO & HYGIENE",
+        "PRE"
+    ],
+    [
+        "PHA F312",
+        "MEDICINAL CHEMISTRY I"
+    ],
+    [
+        "PHA F313",
+        "INSTRU METHODS OF ANAL"
+    ],
+    [
+        "PHA F314",
+        "PHARMA FORMUL & BIOPHARM"
+    ],
+    [
+        "PHA F341",
+        "PHARMACOLOGY II",
+        "001295",
+        "PHA",
+        "F311",
+        "PHARMACOLOG Y I",
+        "PRE"
+    ],
+    [
+        "PHA F342",
+        "MEDICINAL CHEMISTRY II",
+        "001297",
+        "PHA",
+        "F312",
+        "MEDICINAL CHEMISTRY I",
+        "PRE"
+    ],
+    [
+        "PHA F343",
+        "FORENSIC PHARMACY"
+    ],
+    [
+        "PHA F344",
+        "NATURAL DRUGS"
+    ],
+    [
+        "PHA F413",
+        "PHARMA MANG & QUAL CONTR"
+    ],
+    [
+        "PHA F414",
+        "BIOPHARMACEUTICS",
+        "001300",
+        "PHA",
+        "F314",
+        "PHARMA FORMUL & BIOPHARM",
+        "PRE"
+    ],
+    [
+        "PHA F415",
+        "PATHOPHYSIOLOGY",
+        "001087",
+        "PHA",
+        "F214",
+        "ANATOMY PHYSIO & HYGIENE",
+        "PRE",
+        "AND",
+        "001292",
+        "PHA",
+        "F242",
+        "BIOLOGICA L CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "PHA F416",
+        "CHEM OF SYNTHETIC DRUGS",
+        "001291",
+        "PHA",
+        "F241",
+        "PHARMACEUTI CAL CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "PHA F417",
+        "PHARMACOECONOMICS"
+    ],
+    [
+        "PHA F422",
+        "COSMETIC SCIENCE"
+    ],
+    [
+        "PHA F432",
+        "HOSPITAL PHARMACY"
+    ],
+    [
+        "PHA F441",
+        "BIOCHEMICAL ENGINEERING",
+        "1292",
+        "PHA",
+        "F242",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE"
+    ],
+    
+    [
+        "PHA F442",
+        "APPLIED PHARMA CHEMISTRY",
+        "001291",
+        "PHA",
+        "F241",
+        "PHARMACEUTI CAL CHEMISTRY",
+        "PRE"
+    ],
+    [
+        "PHA F461",
+        "PHYTOCHEMISTRY",
+        "001302",
+        "PHA",
+        "F344",
+        "NATURAL DRUGS",
+        "PRE"
+    ],
+    [
+        "PHIL F211",
+        "INTRODUCTORY PHILOSOPHY"
+    ],
+    [
+        "PHIL F221",
+        "SYMBOLIC LOGIC"
+    ],
+    [
+        "PHY F110",
+        "PHYSICS LABORATORY"
+    ],
+    [
+        "PHY F111",
+        "MECH OSCIL & WAVES"
+    ],
+    [
+        "PHY F112",
+        "GENERAL PHYSICS"
+    ],
+    [
+        "PHY F211",
+        "CLASSICAL MECHANICS",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F212",
+        "ELECTROMAGNETIC THEO I",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F213",
+        "OPTICS",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F214",
+        "ELEC MAGNET & OPTICS LAB"
+    ],
+    [
+        "PHY F215",
+        "INTRO TO ASTRO & ASTROPH",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F241",
+        "ELECTROMAGNETIC THEO II",
+        "001127",
+        "PHY",
+        "F212",
+        "ELECTROMAGN ETIC THEO I",
+        "PRE"
+    ],
+    [
+        "PHY F242",
+        "QUANTUM MECHANICS I",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F243",
+        "MATH METHODS OF PHYSICS",
+        "001010",
+        "MATH",
+        "F111",
+        "MATHEMATICS -I",
+        "PRE",
+        "AND",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE",
+        "AN D",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMAT ICS III",
+        "PRE"
+    ],
+    [
+        "PHY F244",
+        "MODERN PHYSICS LAB"
+    ],
+    [
+        "PHY F311",
+        "QUANTUM MECHANICS II",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE"
+    ],
+    [
+        "PHY F312",
+        "STATISTICAL MECHANICS",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE"
+    ],
+    [
+        "PHY F313",
+        "COMPUTATIONAL PHYSICS",
+        "001010",
+        "MATH",
+        "F111",
+        "MATHEMATICS -I",
+        "PRE",
+        "AND",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE",
+        "AN D",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMAT ICS III",
+        "PRE"
+    ],
+    [
+        "PHY F315",
+        "THEORY OF RELATIVITY",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F316",
+        "MUSICAL ACOUSTICS",
+        "PHY",
+        "F111",
+        "MECHANICS OSCILLATIONS AND WAVES",
+        "PRE"
+    ],
+    [
+        "PHY F341",
+        "SOLID STATE PHYSICS",
+        "001487",
+        "PHY",
+        "F312",
+        "STATISTICAL MECHANICS",
+        "PRE"
+    ],
+    [
+        "PHY F342",
+        "ATOMIC & MOLECULAR PHY",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "AND",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE"
+    ],
+    [
+        "PHY F343",
+        "NUCLEAR & PARTICLE PHY",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "AND",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE",
+        "AN D",
+        "001127",
+        "PHY",
+        "F212",
+        "ELECTROM AGNETIC THEO I",
+        "PRE"
+    ],
+    [
+        "PHY F344",
+        "ADVANCED PHYSICS LAB"
+    ],
+    [
+        "PHY F345",
+        "QUANTUM MECHANICS FOR ENGINEERS",
+        "PHY",
+        "F111",
+        "MECHANICS, OSCILLATIONS AND WAVES",
+        "PRE",
+        "AND",
+        "MATH",
+        "F111",
+        "MATHEMATI CS-I",
+        "PRE",
+        "AN D",
+        "MATH",
+        "F112",
+        "MATHEMAT ICS-II",
+        "PRE",
+        "AN D",
+        "MATH",
+        "F211",
+        "MATHEMAT ICS-III"
+    ],
+    [
+        "PHY F378",
+        "PLASMA PHYSICS AND ITS APPLICATIONS",
+        "PHY",
+        "F212",
+        "ELECTROMAGN ETIC THEORY-I",
+        "PRE",
+        "OR",
+        "EEE",
+        "F212",
+        "ELECTROMA GNETIC THEORY",
+        "PRE",
+        "OR",
+        "INSTR",
+        "F212",
+        "ELECTROM AGNETIC THEORY",
+        "PRE",
+        "OR",
+        "ECE",
+        "F212",
+        "ELECTROM AGNETIC THEORY"
+    ],
+    [
+        "PHY F412",
+        "INTRO TO QUAN FIELD THEO",
+        "001126",
+        "PHY",
+        "F211",
+        "CLASSICAL MECHANICS",
+        "PRE",
+        "AND",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "AN D",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANIC S II",
+        "PRE"
+    ],
+    [
+        "PHY F413",
+        "PARTICLE PHYSICS",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE"
+    ],
+    [
+        "PHY F414",
+        "PHYSICS OF ADV MATERIALS"
+    ],
+    [
+        "PHY F415",
+        "GEN THEO OF REL & COSMO",
+        "001022",
+        "MATH",
+        "F211",
+        "MATHEMATICS III",
+        "PRE",
+        "AND(",
+        "001494",
+        "PHY",
+        "F315",
+        "THEORY OF RELATIVITY",
+        "PRE",
+        "OR",
+        "001482",
+        "PHY",
+        "F241",
+        "ELECTROM AGNETIC THEO II",
+        "PRE",
+        ")"
+    ],
+    [
+        "PHY F416",
+        "SOFT CONDEN MATTER PHY"
+    ],
+    [
+        "PHY F417",
+        "EXPT METHODS OF PHYSICS"
+    ],
+    [
+        "PHY F418",
+        "LASERS AND APPLICATIONS",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "AND",
+        "001127",
+        "PHY",
+        "F212",
+        "ELECTROMA GNETIC THEO I",
+        "PRE"
+    ],
+    [
+        "PHY F419",
+        "ADV SOLID STATE PHYSICS",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE",
+        "AND",
+        "001489",
+        "PHY",
+        "F341",
+        "SOLID STATE PHYSICS",
+        "PRE"
+    ],
+    [
+        "PHY F420",
+        "QUANTUM OPTICS",
+        "001483",
+        "PHY",
+        "F242",
+        "QUANTUM MECHANICS I",
+        "PRE",
+        "AND",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE"
+    ],
+    
+    [
+        "PHY F421",
+        "ADV QUANTUM MECHANICS",
+        "001486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE",
+        "AND",
+        "001482",
+        "PHY",
+        "F241",
+        "ELECTROMA GNETIC THEO II",
+        "PRE"
+    ],
+    [
+        "PHY F422",
+        "GROUP THEORY & APPLI",
+        "MATH",
+        "F112",
+        "MATHEMATICS -II",
+        "PRE"
+    ],
+    [
+        "PHY F423",
+        "SPECIAL TOP IN STAT MECH",
+        "001487",
+        "PHY",
+        "F312",
+        "STATISTICAL MECHANICS",
+        "PRE"
+    ],
+    [
+        "PHY F424",
+        "ADVANCED ELECTRODYNAMICS",
+        "001484",
+        "PHY",
+        "F243",
+        "MATH METHODS OF PHYSICS",
+        "PRE"
+    ],
+    [
+        "PHY F425",
+        "ADV MATH METHODS OF PHY",
+        "001484",
+        "PHY",
+        "F243",
+        "MATH METHODS OF PHYSICS",
+        "PRE"
+    ],
+    [
+        "PHY F426",
+        "PHY OF SEMICONDUCTOR DEV"
+    ],
+    [
+        "PHY F427",
+        "ATMOSPHERIC PHYSICS",
+        "001015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "PHY G512",
+        "ADVANCED QUANTUM FIELD THEORY",
+        "PHY",
+        "F412",
+        "INTRODUCTIO N TO QUANTUM FIELD THEORY",
+        "PRE"
+    ],
+    [
+        "POL F311",
+        "GANDHIAN THOUGHTS"
+    ],
+    [
+        "POL F321",
+        "INTERNATIONAL RELATIONS"
+    ],
+    [
+        "MBA G538",
+        "MARKETING MODELS",
+        "MBA",
+        "G518",
+        "MARKETING"
+    ],
+    [
+        "CS F402",
+        "COMPUTATIONAL GEOMETRY",
+        "CS",
+        "F111",
+        "COMPUTER PROGRAMMI NG",
+        "CS",
+        "F211",
+        "DATA STRUCTU RE AND ALGORIT HMS"
+    ],
+    [
+        "FIN F414",
+        "FINANCIAL RISK ANALATICS AND MANAGEMENT",
+        "FIN",
+        "F311",
+        "DERIVATIVE S AND RISK MANAGEME NT",
+        "ECON",
+        "F354",
+        "DERIVATI VES AND RISK MANAGE MENT"
+    ],
+    [
+        "CS F320",
+        "FOUNDATIONS OF DATA SCIENCE",
+        "MATH",
+        "F113",
+        "PROBABILIT Y AND STATISTICS"
+    ],
+    [
+        "EEE G641",
+        "APPLIED ESTIMATION THEORY",
+        "EEE",
+        "F311",
+        "COMMUNICA TION SYSTEMS",
+        "ECE",
+        "F311",
+        "COMMUNI CATION SYSTEMS"
+    ],
+    [
+        "MATH F432",
+        "APPLIED STATISTICAL METHODS",
+        "MATH",
+        "F113",
+        "PROBABILIT Y AND STATISTICS"
+    ],
+    [
+        "PHY F431",
+        "GEOMETRICAL METHODS IN PHYSICS",
+        "PHY",
+        "F243",
+        "MATHEMATI CAL METHODS OF PHYSICS",
+        "MATH",
+        "F241",
+        "MATHEMA TICAL METHODS"
+    ],
+    [
+        "PHY F432",
+        "CLASSICAL THEORY OF FIELDS: A SYMMETRY PERSPECTIVE",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II"
+    ],
+    [
+        "CHEM F320",
+        "INTRODUCTORY COMPUTATIONAL CHEMISTRY LABORATORY",
+        "CHEM",
+        "F244",
+        "PHYSICAL CHEMISTRY III"
+    ],
+    [
+        "ME F414",
+        "FUEL CELL SCIENCE AND TECHNOLOGY",
+        "BITS",
+        "F111",
+        "THERMODY NAMICS"
+    ],
+    [
+        "CE F325",
+        "FUNDAMENTALS OF ROCK MECHANICS",
+        "CE",
+        "F243",
+        "SOIL MECHANICS"
+    ],
+    [
+        "CHE F423",
+        "MEMBRANE SCIENCE AND ENGINEERING",
+        "CHE",
+        "F313",
+        "SEPARATIO N PROCESSES II"
+    ],
+    [
+        "CHE F424",
+        "RHEOLOGY OF COMPLEX FLUIDS",
+        "CHE",
+        "F212",
+        "FLUID MECHANICS"
+    ],
+    [
+        "BITS F323",
+        "VENTURE FINANCE",
+        "ECON",
+        "F212",
+        "FUNDAMENT ALS OF FINANCE & ACCOUNTIN G"
+    ],
+    [
+        "PHY F317",
+        "INTRODUCTION TO RADIO ASTRONOMY",
+        "MATH",
+        "F211",
+        "MATHEMATI CS-III",
+        "and",
+        "PHY",
+        "F212",
+        "ELECTRO MAGNETI C THEORY I",
+        "or",
+        "EEE/IN STR/E CE",
+        "F212",
+        "ELECTR OMAGNE TIC THEORY"
+    ],
+    
+    [
+        "PHY F428",
+        "QUANTUM INFORMATION THEORY",
+        "BITS",
+        "F386",
+        "INTRODUCTI ON TO QUANTUM INFORMATIO N AND COMPUTATI ON",
+        "OR",
+        "PHY",
+        "F242",
+        "QUANTU M MECHANI CS 1"
+    ],
+    [
+        "CE G564",
+        "STRUCTURAL HEALTH ASSESSMENT AND REHABILITATION",
+        "CE",
+        "F311",
+        "DESIGN OF CONCRETE STRUCTURE S",
+        "and",
+        "CE",
+        "F343",
+        "DESIGN OF STEEL STRUCTU RES"
+    ],
+    [
+        "MBA G578",
+        "GAME THEORY AND BUSINESS STRATEGY",
+        "MBA",
+        "G513",
+        "QUANTITATI VE METHODS"
+    ],
+    [
+        "EEE F436",
+        "Electromagnetic Compatibility",
+        "EEE/INST R/ECE/PH Y",
+        "F212",
+        "ELECTROMA GNETIC THEORY"
+    ],
+    [
+        "MATH F481",
+        "COMMUTATIVE ALGEBRA",
+        "MATH",
+        "F215",
+        "ALGEBRA-I",
+        "FROM MATH F314 TO MATH F215"
+    ],
+    [
+        "AN F311",
+        "Principles of Aerodynamics",
+        "CE",
+        "F231",
+        "FLUID MECHANICS",
+        "Pre",
+        "OR",
+        "CHE",
+        "F212",
+        "FLUID MECHANI CS",
+        "Pre",
+        "O R",
+        "ME",
+        "F212",
+        "FLUID MECHANI CS",
+        "Pre",
+        "O R",
+        "MF",
+        "F218",
+        "Transport Phenomen a in Manufactu ring",
+        "Pre"
+    ],
+    [
+        "AN F312",
+        "Aircraft Propulsion",
+        "CE",
+        "F231",
+        "FLUID MECHANICS",
+        "Pre",
+        "OR",
+        "CHE",
+        "F212",
+        "FLUID MECHANI CS",
+        "Pre",
+        "O R",
+        "ME",
+        "F212",
+        "FLUID MECHANI CS",
+        "Pre",
+        "O R",
+        "MF",
+        "F218",
+        "Transport Phenomen a in Manufactu ring",
+        "Pre"
+    ],
+    [
+        "AN F315",
+        "Aircraft Structures",
+        "ME",
+        "F211",
+        "Mechanics of Solids",
+        "Pre",
+        "OR",
+        "CE",
+        "F211",
+        "Mechanics of Solids",
+        "Pre"
+    ],
+    [
+        "CS F316",
+        "Quantum Architecture and Programming",
+        "CS",
+        "F215",
+        "Digital Design",
+        "Pre"
+    ],
+    [
+        "CS F426",
+        "Graph Mining",
+        "CS",
+        "F211",
+        "Data Structure and Algorithms",
+        "Pre"
+    ],
+    [
+        "CS F427",
+        "Performance Analysis of Computer Networks",
+        "CS",
+        "F303",
+        "Computer Networks",
+        "Pre"
+    ],
+    [
+        "EEE F419",
+        "Flexible and Stretchable Electronics",
+        "EEE",
+        "F214",
+        "Electronic Devices",
+        "Pre",
+        "OR",
+        "INSTR",
+        "F214",
+        "Electronic Devices",
+        "Pre",
+        "O R",
+        "ECE",
+        "F214",
+        "Electronic Devices",
+        "Pre"
+    ],
+    [
+        "EEE F420",
+        "Biomedical Signal Processing",
+        "EEE",
+        "F434",
+        "Digital Signal Processing",
+        "Pre",
+        "OR",
+        "ECE",
+        "F434",
+        "Digital Signal Processing",
+        "Pre"
+    ],
+    [
+        "PHY F346",
+        "Laser Science and Technology",
+        "PHY",
+        "F212",
+        "Electromagne tic Theory I",
+        "Pre",
+        "OR",
+        "EEE",
+        "F212",
+        "Electroma gnetic Theory",
+        "Pre",
+        "O R",
+        "INSTR",
+        "F212",
+        "Electroma gnetic Theory",
+        "Pre",
+        "O R",
+        "ECE",
+        "F212",
+        "Electroma gnetic Theory",
+        "Pre"
+    ],
+    [
+        "CS G518",
+        "Internet of Things: Design and Development",
+        "CS",
+        "F303",
+        "Computer Networks",
+        "Co",
+        "OR",
+        "EEE",
+        "F414",
+        "Telecomm unication Switching Systems and Networks",
+        "Co",
+        "O R",
+        "ECE",
+        "F414",
+        "Telecomm unication Switching Systems and Networks",
+        "Co",
+        "O R",
+        "EEE",
+        "F346",
+        "Data Communic ation Networks",
+        "Co"
+    ],
+    [
+        "CHE F341",
+        "CHEMICAL ENGG LAB II",
+        "001184",
+        "CHE",
+        "F311",
+        "KINETICS & REACTOR DESIG",
+        "CO",
+        "AND",
+        "001189",
+        "CHE",
+        "F342",
+        "PROCESS DYN & CONTROL",
+        "CO",
+        "AN D",
+        "001186",
+        "CHE",
+        "F313",
+        "SEPARATIO N PROCESSE S II",
+        "CO"
+    ],
+    [
+        "BIO F311",
+        "RECOMBINANT DNA TECH",
+        "001112",
+        "BIO",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "OR",
+        "PHA",
+        "F242",
+        "BIOLOGICA L CHEMISTRY",
+        "Pre",
+        "AN D",
+        "001425",
+        "BIO",
+        "F243",
+        "GENETICS",
+        "PRE"
+    ],
+    [
+        "BIO F421",
+        "ENZYMOLOGY",
+        "001112",
+        "BIO",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "OR",
+        "PHA",
+        "F242",
+        "BIOLOGICA L CHEMISTRY",
+        "Pre"
+    ],
+    [
+        "BIO F417",
+        "BIOMOLECULAR MODELING",
+        "001112",
+        "BIO",
+        "F211",
+        "BIOLOGICAL CHEMISTRY",
+        "PRE",
+        "OR",
+        "PHA",
+        "F242",
+        "BIOLOGICA L CHEMISTRY",
+        "Pre"
+    ],
+    [
+        "ECE F216",
+        "Electronic Devices Simulation Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    [
+        "ECE F423",
+        "Electronic Material Design and Simulations Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    
+    [
+        "ECE F424",
+        "Smart Grid for Sustainable Energy",
+        "001239",
+        "EEE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE",
+        "OR",
+        "00134 2",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "Pre",
+        "O R",
+        "00138 5",
+        "ECE",
+        "F242",
+        "CONTRO L SYSTEM S",
+        "PRE"
+    ],
+    [
+        "EEE F216",
+        "Electronic Devices Simulation Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    [
+        "EEE F423",
+        "Electronic Material Design and Simulations Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    [
+        "EEE F424",
+        "Smart Grid for Sustainable Energy",
+        "001239",
+        "EEE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE",
+        "OR",
+        "00134 2",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "Pre",
+        "O R",
+        "00138 5",
+        "ECE",
+        "F242",
+        "CONTRO L SYSTEM S",
+        "PRE"
+    ],
+    [
+        "EEE F430",
+        "Green Communications and Networks",
+        "001242",
+        "EEE",
+        "F311",
+        "COMMUNICA TION SYSTEMS",
+        "PRE"
+    ],
+    [
+        "INSTR F216",
+        "Electronic Devices Simulation Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    [
+        "INSTR F423",
+        "Electronic Material Design and Simulations Laboratory",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00109 9",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "Pre",
+        "O R",
+        "00138 3",
+        "ECE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE"
+    ],
+    [
+        "INSTR F424",
+        "Smart Grid for Sustainable Energy",
+        "001239",
+        "EEE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE",
+        "OR",
+        "00134 2",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "Pre",
+        "O R",
+        "00138 5",
+        "ECE",
+        "F242",
+        "CONTRO L SYSTEM S",
+        "PRE"
+    ],
+    [
+        "PHA F315",
+        "Pharmaceutical Formulations II",
+        "002504",
+        "PHA",
+        "F216",
+        "Pharmaceutic al Formulations I",
+        "PRE"
+    ],
+    [
+        "PHA F317",
+        "Safety Pharmacology and Toxicology",
+        "001295",
+        "PHA",
+        "F311",
+        "PHARMACO LOGY I",
+        "PRE"
+    ],
+    [
+        "PHA F419",
+        "Herbal Drug Technology",
+        "001302",
+        "PHA",
+        "F344",
+        "NATURAL DRUGS",
+        "PRE"
+    ],
+    [
+        "BITS F429",
+        "NANOTECHNOGY FOR RENEWABLE ENERGY AND ENVIRONMENT",
+        "BITS / CHE / ME / MF",
+        "F201 / F243 / F213 / F213",
+        "MATERIAL SCIENCE & ENGINEERING",
+        "PRE",
+        "OR",
+        "CHEM",
+        "F333",
+        "CHEMISTRY OF MATERIALS",
+        "PRE",
+        "OR",
+        "PHY",
+        "F414",
+        "PHYSICS OF ADVANCED MATRIALS",
+        "PRE"
+    ],
+    [
+        "EEE G614",
+        "Advanced Wireless Communications",
+        "001242",
+        "EEE",
+        "F311",
+        "COMMUNICA TION SYSTEMS",
+        "PRE"
+    ],
+    [
+        "EEE G514",
+        "Nanoelectronic Memories and Technology",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00124 3",
+        "EEE",
+        "F313",
+        "ANALOG AND DIGITAL VLSI DESIGN",
+        "PRE",
+        "O R",
+        "00074 3",
+        "MEL",
+        "G62 1",
+        "VLSI DESIGN",
+        "PRE",
+        "O R",
+        "000744",
+        "MEL",
+        "G631",
+        "PHYSICS AND MODELLI NG OF MICROEL ECTRONI C DEVICES",
+        "PRE"
+    ],
+    [
+        "MEL G514",
+        "Nanoelectronic Memories and Technology",
+        "001080",
+        "EEE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "00124 3",
+        "EEE",
+        "F313",
+        "ANALOG AND DIGITAL VLSI DESIGN",
+        "PRE",
+        "O R",
+        "00074 3",
+        "MEL",
+        "G62 1",
+        "VLSI DESIGN",
+        "PRE",
+        "O R",
+        "000744",
+        "MEL",
+        "G631",
+        "PHYSICS AND MODELLI NG OF MICROEL ECTRONI C DEVICES",
+        "PRE"
+    ],
+    [
+        "CS F430",
+        "Approximation Algorithms",
+        "001319",
+        "CS",
+        "F364",
+        "DESIGN & ANAL OF ALGO",
+        "PRE"
+    ],
+    [
+        "CS F431",
+        "Combinatorial Optimization",
+        "001094",
+        "CS",
+        "F211",
+        "DATA STRUCTURE S & ALGO",
+        "PRE"
+    ],
+    [
+        "MATH F425",
+        "Numerical Linear Algebra",
+        "001011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE"
+    ],
+    [
+        "ME G613",
+        "Advanced Finite Element Modelling & Analysis",
+        "001234",
+        "CE",
+        "F435",
+        "INTRODUCTI ON TO FEM",
+        "PRE",
+        "OR",
+        "00032 6",
+        "CE",
+        "G61 9",
+        "FINITE ELEMENT ANALYSIS",
+        "PRE",
+        "O R",
+        "00032 2",
+        "ME",
+        "G51 2",
+        "FINITE ELEMEN T METHOD",
+        "PRE"
+    ],
+    [
+        "MPBA G537",
+        "Data Structures and Algorithmic Thinking",
+        "002459",
+        "MPBA",
+        "G507",
+        "Programming For Analytics",
+        "PRE"
+    ],
+    
+    [
+        "CE G576",
+        "Advanced Computational Modelling",
+        "001234",
+        "CE",
+        "F435",
+        "INTRODUCTI ON TO FEM",
+        "PRE",
+        "OR",
+        "00032 6",
+        "CE",
+        "G61 9",
+        "FINITE ELEMENT ANALYSIS",
+        "PRE",
+        "O R",
+        "00032 2",
+        "ME",
+        "G51 2",
+        "FINITE ELEMEN T METHOD",
+        "PRE"
+    ],
+    [
+        "ECON F419",
+        "Advanced Microeconomics",
+        "001443",
+        "ECON",
+        "F242",
+        "MICROECON OMICS",
+        "PRE"
+    ],
+    [
+        "ME F428",
+        "Smart Materials",
+        "002394",
+        "ME",
+        "F216",
+        "Materials Science and Engineering",
+        "PRE",
+        "OR",
+        "00239 5",
+        "MF",
+        "F216",
+        "Materials Science and Engineerin g",
+        "PRE",
+        "O R",
+        "00118 2",
+        "CHE",
+        "F243",
+        "MATERIA L SCIENCE & ENGG",
+        "PRE"
+    ],
+    [
+        "ME F429",
+        "Micro-Nanoscale Heat Transport",
+        "002430",
+        "ME",
+        "F220",
+        "HEAT TRANSFER",
+        "PRE",
+        "OR",
+        "00118 0",
+        "CHE",
+        "F241",
+        "HEAT TRANSFE R",
+        "PRE"
+    ],
+    [
+        "PHY F433",
+        "Topics in Nonlinear Optics",
+        "001127",
+        "PHY",
+        "F212",
+        "ELECTROMA GNETIC THEO I",
+        "PRE",
+        "OR",
+        "00112 8",
+        "PHY",
+        "F213",
+        "OPTICS",
+        "PRE"
+    ],
+    [
+        "BIO F217",
+        "LABORATORY FOR WATER, SANITATION AND SOLID WASTE MANAGEMENT",
+        "1941",
+        "BIO",
+        "F216",
+        "WATER, SANITATION AND SOLID WASTE MANAGEME NT",
+        "PRE"
+    ],
+    [
+        "CE F428",
+        "EARTHQUAKE RES DES & CON",
+        "2281",
+        "CE",
+        "F320",
+        "Design of Reinforced Concrete Structures",
+        "CO"
+    ],
+    [
+        "PHY F434",
+        "Foundations of Quantum Mechanics",
+        "1483",
+        "PHY",
+        "F242",
+        "Quantum Mechanics - 1",
+        "PRE"
+    ],
+    [
+        "ECOM F321",
+        "Real Time Operating Systems",
+        "1008",
+        "CS",
+        "F111",
+        "COMPUTER PROGRAMMI NG",
+        "PRE"
+    ],
+    [
+        "CHE F315",
+        "Machine Learning for Chemical Engineers",
+        "1181",
+        "CHE",
+        "F242",
+        "NUM METHOD FOR CHEM ENGG",
+        "PRE",
+        "OR",
+        "1471",
+        "MATH",
+        "F313",
+        "Numerical Analysis",
+        "PRE"
+    ],
+    [
+        "CS F435",
+        "Cyber Security Analytics and Forensics",
+        "1320",
+        "CS",
+        "F303",
+        "Computer Networks",
+        "PRE"
+    ],
+    [
+        "CS F437",
+        "Generative Artificial Intelligence",
+        "2444",
+        "CS",
+        "F429",
+        "Natural Language Processing",
+        "PRE",
+        "OR",
+        "1339",
+        "BITS",
+        "F464",
+        "Machine Learning",
+        "PRE"
+    ],
+    [
+        "PHY F318",
+        "Atoms and Photons",
+        "1483",
+        "PHY",
+        "F242",
+        "Quantum Mechanics I",
+        "PRE",
+        "OR",
+        "2176",
+        "PHY",
+        "F345",
+        "Quantum Mechanics for Engineers",
+        "PRE",
+        "O R",
+        "1118",
+        "CHEM",
+        "F213",
+        "Physical Chemistry II",
+        "PRE"
+    ],
+    [
+        "PHY F435",
+        "Advanced Computational Physics",
+        "1488",
+        "PHY",
+        "F313",
+        "Computationa l Physics",
+        "PRE"
+    ],
+    [
+        "MAC F211",
+        "Linear Algebra and Its Applications",
+        "1011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE"
+    ],
+    [
+        "MAC F243",
+        "Numerical Optimization",
+        "1011",
+        "MATH",
+        "F112",
+        "MATHEMATI CS-II",
+        "PRE"
+    ],
+    [
+        "MAC F244",
+        "Stochastic Calculus and Application to Finance",
+        "1012",
+        "MATH",
+        "F113",
+        "PROBABILIT Y & STATISTICS",
+        "PRE",
+        "OR",
+        "1022",
+        "MATH",
+        "F211",
+        "MATHEMA TICS III",
+        "PRE",
+        "O R",
+        "1124",
+        "MATH",
+        "F214",
+        "ELEMEN TARY REAL ANALYSI S",
+        "PRE"
+    ],
+    [
+        "MAC F313",
+        "Statistical Data Analysis",
+        "1012",
+        "MATH",
+        "F113",
+        "PROBABILIT Y & STATISTICS",
+        "PRE"
+    ],
+    [
+        "MAC F314",
+        "Mathematical Modelling",
+        "1022",
+        "MATH",
+        "F211",
+        "MATHEMATI CS III",
+        "PRE"
+    ],
+    [
+        "AUE F241",
+        "Architectural Design Studio I",
+        "2663",
+        "AUE",
+        "F211",
+        "Basic Design for Visualization",
+        "PRE"
+    ],
+    [
+        "AUE F311",
+        "Architectural Design Studio II",
+        "2666",
+        "AUE",
+        "F241",
+        "Architectural Design Studio I",
+        "PRE"
+    ],
+    [
+        "AUE F313",
+        "Design of Reinforced Concrete Structures",
+        "2664",
+        "AUE",
+        "F212",
+        "Structural Mechanics",
+        "PRE",
+        "OR",
+        "1073",
+        "CE",
+        "F211",
+        "MECHANI CS OF SOLIDS",
+        "PRE"
+    ],
+    [
+        "AUE F343",
+        "Design of Steel Structures",
+        "2664",
+        "AUE",
+        "F212",
+        "Structural Mechanics",
+        "PRE",
+        "OR",
+        "1073",
+        "CE",
+        "F211",
+        "MECHANI CS OF SOLIDS",
+        "PRE"
+    ],
+    
+    [
+        "AUE F344",
+        "Directed Research in Architecture \u2013 I",
+        "2669",
+        "AUE",
+        "F311",
+        "Architectural Design Studio II",
+        "PRE"
+    ],
+    [
+        "AUE F345",
+        "Directed Research in Architecture \u2013 II",
+        "2676",
+        "AUE",
+        "F344",
+        "Directed Research in Architecture \u2013 I",
+        "PRE"
+    ],
+    [
+        "ME F430",
+        "Fluid-Structure Interactions",
+        "1083",
+        "ME",
+        "F211",
+        "MECHANICS OF SOLIDS",
+        "PRE",
+        "AND",
+        "1082",
+        "ME",
+        "F212",
+        "FLUID MECHANI CS",
+        "PRE"
+    ],
+    [
+        "EEE F437",
+        "Semiconductor Fabrication Technology",
+        "1383",
+        "ECE",
+        "F214",
+        "ELECTRONI C DEVICES",
+        "PRE",
+        "OR",
+        "2571",
+        "ECOM",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "PRE",
+        "O R",
+        "1080",
+        "EEE",
+        "F214",
+        "ELECTR ONIC DEVICES",
+        "PRE",
+        "O R",
+        "1099",
+        "INSTR",
+        "F214",
+        "ELECTRO NIC DEVICES",
+        "PRE"
+    ],
+    [
+        "AN F316",
+        "Orbital Mechanics",
+        "1015",
+        "PHY",
+        "F111",
+        "MECH OSCIL & WAVES",
+        "PRE"
+    ],
+    [
+        "CE F331",
+        "In-situ Testing Methods in Geotechnical Engineering",
+        "1193",
+        "CE",
+        "F243",
+        "SOIL MECHANICS",
+        "PRE"
+    ],
+    [
+        "ECE F331",
+        "Microwave Engineering",
+        "1381",
+        "ECE",
+        "F212",
+        "ELECTROMA GNETIC THEORY",
+        "PRE",
+        "OR",
+        "1078",
+        "EEE",
+        "F212",
+        "ELECTRO MAGNETI C THEORY",
+        "PRE",
+        "O R",
+        "1097",
+        "INSTR",
+        "F212",
+        "ELECTR OMAGNE TIC THEORY",
+        "PRE",
+        "O R",
+        "1127",
+        "PHY",
+        "F212",
+        "ELECTRO MAGNETI C THEO I",
+        "PRE"
+    ],
+    [
+        "ECE F438",
+        "Electric Vehicles",
+        "1380",
+        "ECE",
+        "F211",
+        "ELECTRICAL MACHINES",
+        "PRE",
+        "AND",
+        "1385",
+        "ECE",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE"
+    ],
+    [
+        "INSTR F438",
+        "Electric Vehicles",
+        "1096",
+        "INSTR",
+        "F211",
+        "ELECTRICAL MACHINES",
+        "PRE",
+        "AND",
+        "1342",
+        "INSTR",
+        "F242",
+        "CONTROL SYSTEMS",
+        "PRE"
+    ],
+    [
+        "MATH F429",
+        "Modern Theory of Partial Differential Equations",
+        "1472",
+        "MATH",
+        "F341",
+        "INTRO TO FUNCTIONA L ANAL",
+        "PRE"
+    ],
+    [
+        "PHY F438",
+        "Fundamentals of Quantum Field Theory",
+        "1486",
+        "PHY",
+        "F311",
+        "QUANTUM MECHANICS II",
+        "PRE"
+    ],
+    [
+        "CHE F312",
+        "CHEMICAL ENGG LAB I",
+        "001072",
+        "CHE",
+        "F212",
+        "FLUID MECHANICS",
+        "CO",
+        "AND",
+        "001180",
+        "CHE",
+        "F241",
+        "HEAT TRANSFER",
+        "CO",
+        "OR",
+        "001183",
+        "CHE",
+        "F244",
+        "SEPARATIO N PROCESSE S I",
+        "CO"
+    ],
+    [
+        "SNS F343",
+        "Advanced Nanofabrication",
+        "2809",
+        "SNS",
+        "F244",
+        "Nanomaterial s Synthesis & Characterizati on Laboratory",
+        "PRE"
+    ],
+    [
+        "EEE F439",
+        "Communication and Computing for Drones",
+        "1238",
+        "EEE",
+        "F241",
+        "Microprocess or Programming and Interfacing",
+        "PRE",
+        "OR",
+        "1313",
+        "CS",
+        "F241",
+        "Microproce ssor Programmi ng and Interfacing",
+        "PRE",
+        "O R",
+        "1341",
+        "INSTR",
+        "F241",
+        "Microproc essor Programm ing and Interfacing",
+        "PRE",
+        "O R",
+        "1384",
+        "ECE",
+        "F241",
+        "Microproc essor Programm ing and Interfacing",
+        "PRE"
+    ],
+    [
+        "AN F321",
+        "Aircraft Design",
+        "2422",
+        "AN",
+        "F313",
+        "Flight Mechanics and Control",
+        "CO",
+        "AND",
+        "2420",
+        "AN",
+        "F311",
+        "Principles of Aerodyna mics",
+        "CO",
+        "AN D",
+        "2421",
+        "AN",
+        "F312",
+        "Aircraft Propulsio n",
+        "CO",
+        "A N D",
+        "2424",
+        "AN",
+        "F315",
+        "Aircraft Structures",
+        "CO"
+    ],
+    [
+        "AN F221",
+        "Production Techniques",
+        "2862",
+        "BITS",
+        "F103",
+        "Engineering Design and Prototyping",
+        "PRE"
+    ],
+    
+    
+    
+    
+    [
+        "Title",
+        "Preq1 code",
+        "preq1 subject",
+        "preq1 catalog",
+        "pereq1 title",
+        "Co /Pre",
+        "Preq2 code",
+        "preq2 sub",
+        "preq 2 cat",
+        "pereq2 title",
+        "Co /Pre",
+        "Preq3 code",
+        "preq3 no",
+        "preq 3 cat",
+        "pereq3 title",
+        "Co /Pre",
+        "Preq4 code",
+        "preq4 no",
+        "preq4 cat",
+        "pereq4 title",
+        "Co /Pre",
+        "Modified date"
+    ]
+]
