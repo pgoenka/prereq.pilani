@@ -181,6 +181,7 @@ function switchToGraphView(courseCode) {
     document.getElementById('graphView').classList.remove('hidden');
     document.getElementById('graphView').classList.add('block');
     document.getElementById('headerSearchContainer').classList.remove('opacity-0');
+    document.getElementById('mainHeader').classList.remove('hidden');
     document.getElementById('navDropdown').classList.add('hidden');
     document.getElementById('mainDropdown').classList.add('hidden');
     
@@ -194,6 +195,7 @@ function resetView() {
     document.getElementById('graphView').classList.add('hidden');
     document.getElementById('graphView').classList.remove('block');
     document.getElementById('headerSearchContainer').classList.add('opacity-0');
+    document.getElementById('mainHeader').classList.add('hidden');
     document.getElementById('mainSearchInput').value = '';
     document.getElementById('navSearchInput').value = '';
 }
